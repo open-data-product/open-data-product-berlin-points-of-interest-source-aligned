@@ -1,15 +1,15 @@
-[![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest/issues)
+[![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/issues)
 
 <br />
 <p align="center">
-  <a href="https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest">
+  <a href="https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned">
     <img src="logo_with_text.png" alt="Logo" height="80">
   </a>
 
   <h1 align="center">Open Lifeworlds Data Product - Berlin LOR points of interest</h1>
 
   <p align="center">
-    Data product providing Berlin LOR points-of-interest data</a>
+    Source-aligned data product providing Berlin LOR points-of-interest data</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@ Examples:
 
 ## Roadmap
 
-See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest/issues) for a list of proposed features (and
+See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/issues) for a list of proposed features (and
  known issues).
 
 ## License
