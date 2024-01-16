@@ -4,7 +4,7 @@ from urllib.parse import quote
 
 import requests
 
-from tracking_decorator import TrackingDecorator
+from lib.tracking_decorator import TrackingDecorator
 
 points_of_interest_queries = [
     # Residential Areas
