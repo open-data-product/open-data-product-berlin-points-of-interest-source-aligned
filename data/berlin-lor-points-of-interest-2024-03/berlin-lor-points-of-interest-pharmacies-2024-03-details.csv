@@ -1,0 +1,782 @@
+id,lat,lon,name,street,zip_code,city
+60775323,52.5407412,13.4866016,Reichenberger Apotheke,Reichenberger Straße 3,13055,Berlin
+60848447,52.5318353,13.4696536,Castello-Apotheke,,,
+60852928,52.5275552,13.4685134,Rosen Apotheke,Rudolf-Seiffert-Straße 11,10369,Berlin
+68437791,52.4893898,13.4505704,Margareten-Apotheke,Karl-Kunger-Straße 46,12435,Berlin
+69226035,52.5105561,13.3958628,Leipziger Apotheke,Leipziger Straße 43,10117,Berlin
+76507297,52.4815485,13.3190694,Preußen-Apotheke,Paretzer Straße 2,10713,Berlin
+76519952,52.4865543,13.3314064,Bundes-Apotheke,Bundesallee 177,10715,Berlin
+76596388,52.5431994,13.4423197,Mühlenberg-Apotheke,Thomas-Mann-Straße 1,10409,Berlin
+78244254,52.5071247,13.3947881,Axels Apotheke,Rudi-Dutschke-Straße 8,,
+79603436,52.5633045,13.3287743,Diamant Apotheke,Kurt-Schumacher-Damm 1-15,13405,Berlin
+79606682,52.5668918,13.3170343,Apotheke am Markt Reinickendorf,,13405,Berlin
+79624638,52.5701291,13.3213944,Barlach Apotheke,Auguste-Viktoria-Allee 81,13403,Berlin
+79688159,52.4815398,13.3289844,Park-Apotheke,Bundesallee 55,10715,Berlin
+81362602,52.5104923,13.2716035,Kranich-Apotheke,Lindenallee 28,14050,Berlin
+87036261,52.5306975,13.3841248,Nordland Apotheke,Invalidenstraße 114,10115,Berlin
+87040402,52.5117692,13.3868843,Friedrichstadt Apotheke,Glinkastraße 4,10117,Berlin
+89274697,52.521847,13.4098188,Panorama Apotheke,Panoramastraße 1,10178,Berlin
+89274888,52.519834,13.4111159,Bezirksapotheke am Roten Rathaus,Rathausstraße 5,10178,Berlin
+89275182,52.5133809,13.4053524,Fischerinsel-Apotheke,Gertraudenstraße 19,10178,Berlin
+203469159,52.5268708,13.5425973,Apotheke am Springpfuhl,Helene-Weigel-Platz 11,12681,Berlin
+203469194,52.5276071,13.5421939,Poseidon-Apotheke,Helene-Weigel-Platz 10,12681,Berlin
+203474469,52.5204665,13.5558118,Skarabäus-Apotheke,Oberfeldstraße 30,12683,Berlin
+250195921,52.5264625,13.3501221,Alte Roland-Apotheke,Turmstraße 15,10559,Berlin
+251737915,52.54973,13.3498263,Virchow Apotheke,Seestraße 99,13353,Berlin
+254307048,52.5069033,13.3218338,Wotan Apotheke,Grolmanstraße 51,10623,Berlin
+255103579,52.3888415,13.7405815,Apotheke Neu-Zittau,Berliner Straße 103,15537,Gosen-Neu Zittau
+255825174,52.4818892,13.440147,Wildenbruch Apotheke,Sonnenallee 105,12045,Berlin
+255825368,52.4803687,13.4394937,Frühlicht-Apotheke,Anzengruberstraße 7,12043,Berlin
+259081139,52.549263,13.4133047,Nordring Apotheke,Schönhauser Allee 118,10437,Berlin
+259081143,52.5509103,13.4079077,Vita Apotheke,Schivelbeiner Straße 33,10439,Berlin
+260865620,52.4123291,13.5725477,Taut-Apotheke,,,
+261963290,52.4905931,13.456649,Grüne Apotheke,Elsenstraße 111,12435,Berlin
+262213475,52.5241575,13.4800051,Möllendorff-Apotheke,Möllendorffstraße 47,10367,Berlin
+263699380,52.517681,13.5829,Robinson Apotheke,Lion-Feuchtwanger-Straße 22,12619,Berlin
+266630604,52.5111499,13.6121832,Georginen-Apotheke,Treskowstraße 76,12623,Berlin
+266632232,52.509361,13.6138214,Mahlsdorfer Apotheke,Hönower Straße 54,12623,Berlin
+266674656,52.5071368,13.592044,Neue Medikus Apotheke,Myslowitzer Straße 49,12621,Berlin
+267366952,52.5360082,13.4270624,Wins-Apotheke,Winsstraße 45,10405,Berlin
+267860831,52.5372848,13.1879163,Seegefelder-Apotheke,Seegefelder Straße 63,13583,Berlin
+268636979,52.4985391,13.3071113,Brandenburg-Apotheke,Brandenburgische Straße 37,10707,Berlin
+268726812,52.4789497,13.4451781,Rosegger-Apotheke,Sonnenallee 144,12059,Berlin
+268844381,52.6128103,13.2315014,Storchen-Apotheke,Schulzendorfer Straße 70,13503,Berlin
+268844523,52.607565,13.2348292,Apotheke am Markt,Bekassinenweg 18,13503,Berlin
+268981834,52.4935361,13.4134932,Grimm-Apotheke,Grimmstraße 9,10967,Berlin
+269478054,52.507579,13.414104,Apotheke am Engelbecken,Heinrich-Heine-Straße 15,10179,Berlin
+270633381,52.4504672,13.7536436,Kastanien Apotheke,Rudolf-Breitscheid-Straße 26,15569,Woltersdorf
+270814718,52.4322633,13.2196207,Kur-Apotheke,Spanische Allee 37,14129,Berlin
+270814721,52.4271388,13.216597,Die Dorotheen Apotheke,Potsdamer Chaussee 80,14129,Berlin
+270880689,52.435907,13.754632,Punkt Apotheke,,,
+270906159,52.4327628,13.7098785,Rosen-Apotheke Berlin,Fürstenwalder Allee 266,12589,Berlin
+271282692,52.543989,13.3735976,Kolberger Apotheke,Gerichtstraße 18,13347,Berlin
+271405514,52.5320913,13.1981714,Hauptstadt Apotheke,Klosterstraße 34-35,13581,Berlin
+271708716,52.5366282,13.2052104,Altstadt Apotheke,,,
+271708914,52.5376866,13.2060246,Löwen-Apotheke,,,
+271710934,52.5376635,13.2036654,Adler-Apotheke,Carl-Schurz-Straße 39,13597,Berlin
+271713876,52.542908,13.2059594,Apotheke,,,
+272385616,52.5211632,13.1970215,Jäger Apotheke,Adamstraße 3,13595,Berlin
+272385919,52.5208942,13.1948184,Adam Apotheke,Adamstraße 41,13595,Berlin
+272386317,52.5254705,13.1971411,Pichelsdorf Apotheke,Pichelsdorfer Straße 120,13595,Berlin
+272499930,52.4678648,13.4421953,Ringbahn-Apotheke,Karl-Marx-Straße 239,12055,Berlin
+272662737,52.4889422,13.3939616,Kaiser Apotheke,Bergmannstraße 23,10961,Berlin
+273743446,52.5356492,13.1956671,Apotheke Bahnhof Spandau,Seegefelder Straße 16,13597,Berlin
+274864546,52.5217984,13.198061,Hansa Apotheke,,,
+275623282,52.5133802,13.6120014,gesundleben Apotheke Mahlsdorf,Hönower Straße 95A,12623,Berlin
+275887592,52.5236295,13.386715,Galenus-Apotheke,,,
+276145617,52.4671189,13.4886389,Stern Apotheke,Baumschulenstraße 96,12437,Berlin
+276774391,52.512828,13.1833779,Marien-Apotheke,Gatower Straße 85,13595,Berlin
+279573268,52.3919732,13.0912902,Linden-Apotheke,Rudolf-Breitscheid-Straße 25,14482,Potsdam
+280146240,52.6701885,13.2833546,Vita Apotheke,Schönfließer Straße 7,16540,Hohen Neuendorf
+280296894,52.4364093,13.3464079,Thalia Apotheke,,,
+281174775,52.3892203,13.1007191,Brunnen-Apotheke,Kopernikusstraße 32,14482,Potsdam
+282718552,52.6711841,13.2805809,egerapotheke,,,
+282744493,52.517377,13.4686866,Mirbach,,,
+282762536,52.5144752,13.4648596,Löwen-Apotheke,Frankfurter Allee 52,10247,Berlin
+282836294,52.4825451,13.526263,Treskow-Apotheke,Ehrenfelsstraße 46,10318,Berlin
+283346896,52.5467539,13.2094458,Uferpalais-Apotheke,,,
+287852225,52.5678242,13.5724583,Bärliner Apotheke,Havemannstraße 24,12689,Berlin
+287970707,52.5643537,13.4445534,Apotheke im Kaufland,Romain-Rolland-Straße 19,13089,Berlin
+291014069,52.4163173,13.3997542,Tulpen-Apotheke,Mariendorfer Damm 432,12107,Berlin
+291212713,52.5473903,13.1871238,Atlas-Apotheke,Falkenseer Chaussee 23,13583,Berlin
+291432407,52.4564263,13.3209201,Kreisel-Apotheke,Schloßstraße 82,12165,Berlin
+292699498,52.5953568,13.3351509,Birken-Apotheke,,,
+296422913,52.3856458,13.1080117,Apotheke Babelsberg,Großbeerenstraße 123-135,14482,Potsdam
+296942741,52.3915427,13.1041104,Drei Eichen Apotheke,Paul-Neumann-Straße 5,14482,Potsdam
+297410017,52.4997043,13.4969744,Pharmland-Apotheke,Sewanstraße 4,10319,Berlin
+297489806,52.4125676,13.359647,Helgoland Apotheke,,,
+297512115,52.4675849,13.3308517,Helianthus-Apotheke,Rheinstraße 27,12161,Berlin
+297512117,52.4672318,13.3279955,Burger Apotheke,Bundesallee 92,12161,Berlin
+302896345,52.5574811,13.0918006,Pegasus-Apotheke,,,
+304367397,52.5249401,13.1424401,Glückskind Apotheke,Heerstraße 560,13591,Berlin
+306162097,52.4041988,13.2146446,Apotheke am Bebelplatz,,,
+307983960,52.5463569,13.3586662,Leo Apotheke,Müllerstraße 152,13353,Berlin
+308019535,52.5054076,13.5142084,Apotheke 24,,,
+308719063,52.4274299,13.3262036,Hedwig-Apotheke,Oberhofer Weg 2,12209,Berlin
+308719064,52.4286915,13.3289561,Gertruden-Apotheke,Lankwitzer Straße 3,12209,Berlin
+309447196,52.3958055,13.0902552,Nowawes Apotheke,Alt Nowawes 61,14482,Potsdam
+310267634,52.4920349,13.4194693,Lazarus Apotheke,Dieffenbachstraße 40,10967,Berlin
+310377174,52.4801897,13.3428141,Ahorn Apotheke,Innsbrucker Straße 25,10825,Berlin
+310614558,52.3948464,13.1024673,Plantagen-Apotheke,Plantagenstraße 13,14482,Potsdam
+310764887,52.5057922,13.5128096,Berliner Bär-Apotheke,,,
+311089081,52.5028212,13.3167347,M.C. Apotheke,Schlüterstraße 35,10629,Berlin
+312714262,52.4236416,13.3978849,Tauern-Apotheke,Albulaweg 29,12107,Berlin
+312956048,52.4752159,13.2899562,Alexandrinen-Apotheke,Warnemünder Straße 29,14199,Berlin
+313173921,52.5667802,13.4155075,Pankow-Apotheke,Stubnitzstraße 31,13189,Berlin
+313584459,52.4578484,13.2924415,Apotheke Dahlem-Dorf,Königin-Luise-Straße 38,14195,Berlin
+313933591,52.5355836,13.4063535,Arkona Apotheke,Kastanienallee 38,10119,Berlin
+314022672,52.5015083,13.3110277,Insel Apotheke,Giesebrechtstraße 13,10629,Berlin
+314051024,52.5235603,13.450092,Ahorn Apotheke,,,
+314752277,52.5351745,13.3988143,Adonis Apotheke,Anklamer Straße 39/40,10115,Berlin
+315234035,52.4479601,13.3849712,Preußenapotheke,Kurfürstenstraße 57,12105,Berlin
+315803527,52.4912774,13.3447676,Regina Apotheke,Martin-Luther-Straße 58,10779,Berlin
+315820338,52.4866004,13.3565305,Akazien-Apotheke,Hauptstraße 19,10827,Berlin
+316533474,52.497907,13.2973176,Waage Apotheke,Kurfürstendamm 142,10709,Berlin
+316704530,52.5260065,13.3022696,Aida Apotheke,Osnabrücker Straße 4,10589,Berlin
+317148496,52.5214676,13.4496352,Petersburger Apotheke,Petersburger Platz 3,10249,Berlin
+317175755,52.4565269,13.319862,Albrecht-Apotheke Steglitz,Schloßstraße 40,12165,Berlin
+317552407,52.4332816,13.5362695,Easy Apotheke,Rudower Chaussee 12,12489,Berlin
+317552408,52.4317485,13.5373807,Aesculap Apotheke,Albert-Einstein-Straße 2,12489,Berlin
+317614303,52.5174584,13.4428803,Fräulein Beckers Lieblingsapotheke,Karl-Marx-Allee 101,10243,Berlin
+319092509,52.5267866,13.4149448,Merlin-Apotheke,,,
+319494473,52.5361217,13.2754707,Apotheke im Kaufzentrum,Siemensdamm 43,13629,Berlin
+322151533,52.5274856,13.3978184,Apotheke am Koppenplatz,,,
+322490383,52.5189866,13.4155159,Alexa Apotheke,Grunerstraße 20,10179,Berlin
+322565363,52.5218636,13.4107221,Neptun Apotheke,Dircksenstraße 2,10179,Berlin
+323883137,52.3494339,13.1032393,Sonnen Apotheke,Zum Springbruch 1c,14558,Nuthetal
+324023598,52.5207833,13.5917073,Cecilien-Apotheke,,12619,Berlin
+324363717,52.5178278,13.4294411,Apotheke am Strausberger Platz,Strausberger Platz 11-12,10243,Berlin
+324789478,52.4130862,13.3638844,Anker Apotheke,Alt-Marienfelde 55,12277,Berlin
+330966646,52.5031924,13.3883155,Hölderlin-Apotheke,Wilhelmstraße 20,10963,Berlin
+332555438,52.5088216,13.4612497,Seume-Apotheke,Wühlischstraße 20,10245,Berlin
+332555440,52.5062364,13.4658756,Apotheke am Ostkreuz,Sonntagstraße 12,10245,Berlin
+332961993,52.551654,13.3669194,Apotheke am Nauener Platz,,,
+332964520,52.5498675,13.3686632,Dr. Gropler´s Apotheke,,13347,
+333408605,52.4776537,13.4258598,Werbellin-Apotheke,Hermannstraße 52,12049,Berlin
+333410692,52.4773102,13.4229686,Apotheke am Herrfurthplatz,Herrfurthstraße 9,12049,Berlin
+333909847,52.5528911,13.4058278,Driesener Apotheke,Driesener Straße 19,10439,Berlin
+336117214,52.507096,13.3063256,Grüne Apotheke 62,Wilmersdorfer Straße 62,10627,Berlin
+339361190,52.359364,13.3098093,Apotheke Großbeeren,Berliner Straße 30m,14979,Großbeeren
+340129941,52.5068886,13.3234474,Apotheke Carmer-7,Carmerstraße 7,10623,Berlin
+343784476,52.5433846,13.5712888,Fasanen-Apotheke,Blumberger Damm 144,12685,Berlin
+347298415,52.4317492,13.3374668,Seydlitz-Apotheke,Kaiser-Wilhelm-Straße 30,12247,Berlin
+347422942,52.4415204,13.2986338,Eichen Apotheke,Drakestraße 29a,12205,Berlin
+348052909,52.4380311,13.233166,Augusta-Apotheke am Mexikoplatz,Argentinische Allee 1,14163,Berlin
+349301668,52.5060889,13.3140939,Leibniz Apotheke Berlin,Kantstraße 130b,10625,Berlin
+352983796,52.4544874,13.3238828,Kronen Apotheke,Schützenstraße 7,12165,Berlin
+353744167,52.4845367,13.3847889,Apotheke am Flughafen,Manfred-von-Richthofen-Straße 2,12101,Berlin
+356807869,52.5495274,13.4153133,Arcaden Apotheke,,,
+365346780,52.3666426,13.6084211,Schulzendorfer Apotheke,Karl-Liebknecht-Straße 2,15732,Schulzendorf
+366186442,52.5270388,13.3302792,Hutten-Apotheke,Gotzkowskystraße 1,10555,Berlin
+366536622,52.5242051,13.3343198,Jagow-Apotheke,Jagowstraße 24,10555,Berlin
+371157962,52.547683,13.4146196,Gethsemane-Apotheke,Stargarder Straße 79,10437,Berlin
+380498298,52.5185603,13.3879579,Dorotheenstadt Apotheke,Friedrichstraße 151,10117,Berlin
+380498345,52.5247199,13.3794578,MediosApotheke,Luisenstraße 54/55,10117,Berlin
+386006597,52.6424822,13.2057504,Havel-Apotheke,Berliner Straße 25 c,16761,Hennigsdorf
+387491865,52.4590312,13.5255932,Wilhelminenhof Apotheke,Wilhelminenhofstraße 51,12459,Berlin
+391347934,52.65794,13.5353935,Luisen Apotheke,Schönower Straße 98,16341,Panketal
+393409421,52.4977192,13.2927797,easyApotheke,Kurfürstendamm 110,10711,Berlin
+393409422,52.4976209,13.2956562,Galenus Apotheke,Kurfürstendamm 139,10711,Berlin
+399348493,52.5047368,13.4953236,Elsen-Apotheke,Weitlingstraße 73,10317,Berlin
+400912055,52.6066817,13.4199092,Apotheke am Hugenottenplatz,Hugenottenplatz 1,13127,Berlin
+409760015,52.4957099,13.2976849,Apotheke am Hochmeisterplatz,,10709,Berlin
+409775548,52.5618492,13.2069484,Engel Apotheke,Michelstadter Weg 50,13587,Berlin
+409925337,52.5053398,13.5582606,Polimedica-Apotheke,Elsterwerdaer Platz 1,12683,
+409925350,52.4592786,13.5795409,Apotheke im Gesundheitsforum Köpenick,Mahlsdorfer Straße 110,12555,Berlin
+410135921,52.4941966,13.4356179,Reichenberger Apotheke,Reichenberger Straße 110,10999,Berlin
+410499179,52.5495695,13.5770672,Blumberger Apotheke,Hohensaatener Straße 18,12679,Berlin
+411273144,52.5576682,13.2082963,Askanier Apotheke,Streitstraße 11-14,13587,Berlin
+411273455,52.5621448,13.2088093,Hakenfelder Apotheke,Streitstraße 31,13587,Berlin
+412408145,52.4860593,13.3566766,Kaiser Wilhelm Apotheke,Richard-von-Weizsäcker-Platz 1-2,10827,Berlin
+415318053,52.5420046,13.4200711,Apotheke am Helmholtzplatz,Raumerstraße 14a,10437,Berlin
+416660118,52.5114912,13.3083188,Apotheke an der Oper,Bismarckstraße 89,10627,Berlin
+416660134,52.5111671,13.3055221,Minerva-Apotheke,Wilmersdorfer Straße 135,10627,Berlin
+416660138,52.5096216,13.3054736,Bong-Apotheke,Wilmersdorfer Straße 46,10627,Berlin
+416660142,52.5090254,13.3067193,Goethe Apotheke,Goethestraße 40,10625,Berlin
+416858104,52.6497389,13.5164624,Heine Apotheke,Bahnhofstraße 83,16341,Panketal
+419545768,52.55144,13.3827993,Herz Apotheke,Badstraße 57,13357,Berlin
+427670055,52.5120353,13.4967682,Aponeo,Frankfurter Allee 241,10365,Berlin
+428114271,52.4414372,13.3157131,Central-Apotheke,Hindenburgdamm 94a,12203,Berlin
+428114289,52.4476658,13.3150432,Laurentius-Apotheke,Hindenburgdamm 76C,12203,Berlin
+428293745,52.5255288,13.3050256,Apotheke am Mierendorffplatz,Mierendorffplatz 12-14,10589,Berlin
+434561147,52.3727555,13.6171156,Eichen-Apotheke,Bahnhofstraße 4,15732,Eichwalde
+434786337,52.3694367,13.1411656,Apotheke in Drewitz,Konrad-Wolf-Allee 1-3,14480,Potsdam
+438089365,52.548636,13.5040553,Apotheke im Storchenhof,,,
+438098504,52.4706903,13.441201,Euro-Apotheke,Karl-Marx-Straße 214,12055,Berlin
+439234903,52.4512997,13.624489,Kristinen-Apotheke,,,
+439234905,52.4503297,13.6249106,Anker-Apotheke,,,
+440322354,52.499708,13.3912545,Apotheke am Mehringplatz,Mehringplatz 12,10969,Berlin
+440330654,52.480346,13.4363242,Dafne Apotheke,,,
+440332220,52.4806677,13.435211,Neukölln-Apotheke,Karl-Marx-Straße 88,12043,Berlin
+440333191,52.4814172,13.4341084,Forum Apotheke,Karl-Marx-Straße 80,12043,Berlin
+440335563,52.4850824,13.4266376,Libertas Apotheke,Karl-Marx-Straße 16,12043,Berlin
+440337320,52.4810205,13.4336999,Hadrian Apotheke,,,
+440338666,52.4773129,13.4384935,Wilhelm Busch Apotheke,Karl-Marx-Straße 132,12043,Berlin
+440340785,52.4734058,13.4405484,Bären Apotheke,Karl-Marx-Straße 188,12043,Berlin
+441512663,52.4759595,13.4265886,Ulrich-Apotheke,,12049,Berlin
+441514950,52.4794042,13.4257606,Arminius Apotheke,,,
+441676532,52.6694593,13.2864786,St. Hubertus-Apotheke,,,
+441878984,52.4699293,13.4631867,Sonnenblumen Apotheke,,,
+441878991,52.4740953,13.4496732,Hindenburg-Apotheke,Schudomastraße 46,12055,Berlin
+442351144,52.4669292,13.3859911,Pelikan Apotheke,Tempelhofer Damm 139,12099,Berlin
+442390303,52.4568204,13.3844542,Hafen-Apotheke,Tempelhofer Damm 215,12099,Berlin
+442393071,52.4466168,13.3852622,Fortunatus Apotheke,Mariendorfer Damm 68,12109,Berlin
+442394335,52.4461252,13.385909,Akazien Apotheke,Mariendorfer Damm 73,12109,Berlin
+442394341,52.4451968,13.3856432,Markt Apotheke,Mariendorfer Damm 84,12109,Berlin
+442705525,52.4665033,13.4316536,Hermann Apotheke,Hermannstraße 116,12051,Berlin
+443464250,52.4639518,13.4336361,Glasow-Apotheke,Hermannstraße 144,12051,Berlin
+443604961,52.4919031,13.3942991,Apotheke zum Goldenen Einhorn,Gneisenaustraße 92,10961,Berlin
+444606367,52.4971815,13.2926384,Grunewald-Apotheke,Kurfürstendamm 132,10711,Berlin
+445821371,52.4564405,13.4372988,Orchideen-Apotheke,,,
+445821378,52.4533259,13.438621,Luisen-Apotheke,Britzer Damm 107,12347,Berlin
+446759637,52.5001376,13.3065427,Brillant Apotheke,Kurfürstendamm 71,10709,Berlin
+448591443,52.4997229,13.4448618,Palmen-Apotheke,Schlesische Straße 37,10997,Berlin
+448811294,52.4901283,13.4235773,Pasteur-Apotheke,,10967,Berlin
+448913486,52.546825,13.4126429,Cecilien-Apotheke,Gaudystraße 1,10437,Berlin
+448915579,52.5329218,13.4122894,Arminius-Apotheke,Schönhauser Allee 172A,,
+452946886,52.5359237,13.4743188,Koala-Apotheke,Weißenseer Weg 36,13055,Berlin
+452951395,52.4421581,13.2408947,Krumme Lanke Apotheke,Fischerhüttenstraße 64,14163,Berlin
+453013649,52.5280106,13.4679731,Apotheke am Fennpfuhl,Franz-Jacob-Straße 10,10369,Berlin
+454167250,52.558703,13.413785,Bartels Apotheke,,,
+454216844,52.569669,13.4033014,Koala Apotheke,Breite Straße 20,13187,Berlin
+454234943,52.5152094,13.4853643,Rusche-Apotheke,Ruschestraße 103,10365,Berlin
+456388989,52.452556,13.5094857,Sterndamm-Apotheke,Sterndamm 11,12487,Berlin
+456389100,52.4458331,13.5060772,Apotheke Johannisthal,,,
+456414245,52.4412581,13.4588411,Pfauen-Apotheke,,,
+456421034,52.4426146,13.4568396,Fontane-Apotheke,,12351,Berlin
+458915641,52.570789,13.410343,Adler Apotheke,Breite Straße 41,13187,Berlin
+459166572,52.5449696,13.3686333,Zieten Apotheke,Gerichtstraße 31,13347,Berlin
+459650830,52.491228,13.4234937,Easy Apotheke,,10967,Berlin
+459653935,52.4966636,13.4199367,Paul-Lincke-Apotheke,,,
+459673262,52.5816372,13.4045453,Lavendel Apotheke,Blankenburger Straße 1,13156,
+459785177,52.5595433,13.3354795,Steinbock-Apotheke,,,
+459799715,52.545171,13.3608309,Müller-Apotheke,Müllerstraße 156C,,
+460523245,52.5241148,13.1973279,Hohenzollern-Apotheke,Pichelsdorfer Straße 101,13595,Berlin
+461626277,52.5164022,13.4406999,Europa Apotheke,Karl-Marx-Allee 90a,10243,Berlin
+469201022,52.5721364,13.4168547,Ahorn Apotheke,Damerowstraße 7,13187,Berlin
+471136927,52.4559146,13.3796436,Konradin Apotheke,Friedrich-Karl-Straße 23,12103,Berlin
+472371488,52.5365149,13.603422,VivApotheke in Hellersdorf,Hellersdorfer Straße 237,12627,Berlin
+472456390,52.4105431,13.4400245,Orca-Apotheke,,,
+475236781,52.468338,13.4305501,Tasmania Apotheke,Emser Straße 105,12051,Berlin
+475910087,52.502178,13.4290863,Springers Apotheke,Manteuffelstraße 105,10997,Berlin
+476243460,52.4857173,13.4660642,Luna Apotheke,Am Treptower Park 40,12435,Berlin
+482797544,52.4010732,13.5617695,Sabelus XXL Apotheke,Buntzelstraße 117,12526,Berlin
+493715534,52.6557665,13.1956454,Löwen Apotheke,Rigaer Straße 30,16761,Hennigsdorf
+499046359,52.5920493,13.3830878,Kastanien-Apotheke,Kastanienallee 37-38,13158,Berlin
+499963012,52.4157499,13.1456517,Stolpe-Apotheke,Chausseestraße 13,14109,Berlin
+502409526,52.4642316,13.4857268,Baumschulen-Apotheke,Baumschulenstraße 29-31,12437,Berlin
+502558606,52.4845855,13.4346685,Helios-Apotheke,,,
+505990860,52.4943559,13.3835242,Rathaus Apotheke,Großbeerenstraße 26,10963,Berlin
+506275776,52.5186075,13.7079251,Sertürner-Apotheke,,,
+506275777,52.5220629,13.7036811,Kreuz-Apotheke,Fichtestraße 1,15366,Neuenhagen bei Berlin
+506280150,52.5212634,13.7031657,Flora-Apotheke,Hauptstraße 1,15366,Neuenhagen bei Berlin
+506338850,52.46018,13.4350711,farma-plus,Britzer Damm 30,12347,Berlin
+508423804,52.4773766,13.2811924,hagen apotheke,Hohenzollerndamm 94,14199,Berlin
+510624102,52.4609874,13.38514,Albrecht-Apotheke,Tempelhofer Damm 179,12099,Berlin
+516609077,52.5898484,13.2842663,Gorki-Apotheke,Gorkistraße 3,13507,Berlin
+518011179,52.5876355,13.2860212,Adler-Apotheke,Berliner Straße 91,13507,Berlin
+520518100,52.5120981,13.3105177,Opernviertel-Apotheke,Bismarckstraße 30,10625,Berlin
+527503229,52.4728776,13.3071455,Sankt Rochus Apotheke,Schlangenbader Straße 25,14197,Berlin
+527503232,52.4745877,13.3146434,Rheinland Apotheke,Spessartstraße 13,14197,Berlin
+527873296,52.4195999,13.5403651,Normannen-Apotheke,"Grünauer Straße 7,8",12524,Berlin
+528643412,52.4247473,13.5276421,Elefanten Apotheke,,,
+529805424,52.4565863,13.5089986,Europa-Apotheke,Schnellerstraße 21,12439,Berlin
+530687969,52.4473124,13.5758981,Sano Apotheke,,,
+534879643,52.4866689,13.2975626,Hohenzollerndamm Apotheke,Hohenzollerndamm 56,14199,Berlin
+538057637,52.4581201,13.5786266,Apotheke im Forum Köpenick,Bahnhofstraße 33-38,12555,Berlin
+538257565,52.4133634,13.2242146,Apotheke am Fuchsbau,Karl-Marx-Straße 58-60,14532,Kleinmachnow
+564123162,52.5181103,13.496335,Nibelungen-Apotheke,Gotlindestraße 49,10365,Berlin
+565034840,52.5069259,13.2917165,Lietzensee-Apotheke,Neue Kantstraße 7,14057,Berlin
+565034853,52.5106517,13.288557,Columbia Apotheke,Kaiserdamm 13,14057,Berlin
+571800623,52.4215579,13.3702571,St. Hubertus,Marienfelder Allee 47,12277,Berlin
+571956985,52.6601658,13.5337921,Apotheke am Pankemarkt,,,
+573452398,52.499528,13.5073798,Apotheke in der Volkradstraße,,,
+576608994,52.5499687,13.3891501,Center-Apotheke,,,
+581322165,52.5501264,13.384973,BadApotheke,Badstraße 67,13357,Berlin
+581322478,52.5503414,13.3855631,Brunnen Apotheke,Badstraße 11,13357,Berlin
+582854286,52.4193408,13.3684082,Ursus-Apotheke,Marienfelder Allee 75,12277,Berlin
+585143218,52.386944,13.3954661,Schwarze Adler Apotheke,Prinzessinnenstraße 2,12307,Berlin
+585144206,52.3868901,13.3997371,Bahnhof-Apotheke,Bahnhofstraße 26,12305,Berlin
+585473264,52.5420876,13.3701655,Lessing Apotheke,Reinickendorfer Straße 12,13347,Berlin
+588141093,52.3865399,13.404185,Linden Apotheke,Bahnhofstraße 52,12305,Berlin
+588552725,52.549429,13.4552918,Katharinen Apotheke,,,
+588552733,52.549273,13.4562375,Medicus Apotheke,Berliner Allee 82,13088,Berlin
+588557536,52.5487495,13.4506766,Apotheke am Antonplatz,Langhansstraße 1,13086,Berlin
+592122156,52.4386509,13.2155816,Schlachtensee Apotheke,Breisgauer Straße 7,14129,Berlin
+593781884,52.4352813,13.3437222,Lankwitz-Apotheke,Kaiser-Wilhelm-Straße 68,12247,Berlin
+595536654,52.5245938,13.4032424,MediosApotheke Hackescher Markt,Rosenthaler Straße 46-47,10178,Berlin
+602531459,52.5492948,13.353572,Wedding Apotheke,Müllerstraße 139,13353,Berlin
+604938266,52.4874834,13.4238942,Apotheke im Karstadt,,,
+608524481,52.550241,13.4142615,Prenz’l-Apotheke,Schönhauser Allee 81,10439,Berlin
+609142032,52.4292565,13.4536256,Elch Apotheke,Johannisthaler Chaussee 321,,
+609146610,52.42958,13.4570794,Gropius-Apotheke,Imbuschweg 40,12353,Berlin
+610199208,52.3865161,13.4066989,Tempelritter-Apotheke,Bahnhofstraße 60,12305,Berlin
+616284708,52.5200009,13.4793952,Apotheke am Stadtpark,Möllendorffstraße 88,10367,Berlin
+616284712,52.5161624,13.4787925,Apotheke am Rathaus,Möllendorffstraße 111,10367,Berlin
+621584928,52.4373715,13.4477689,Gerhart-Hauptmann-Apotheke,Fritz-Reuter-Allee 181,12359,Berlin
+627415668,52.55057,13.3842488,Gesundbrunnen- Apotheke,Badstraße 64,13357,Berlin
+630214264,52.5136166,13.5179566,Apotheke an der Rhinstraße,,,
+630214267,52.5137587,13.5198414,Bahnhof-Apotheke,,,
+631755396,52.6331147,13.2887685,Elch-Apotheke,Ludolfingerplatz 2,13465,Berlin
+635821864,52.412393,13.3208889,Pantherapotheke,Scheelestraße 140,12209,Berlin
+636005023,52.4767049,13.288994,Rathaus-Apotheke Schmargendorf,Berkaer Straße 6,14199,Berlin
+638953355,52.5060983,13.4957547,Weitling-Apotheke,Weitlingstraße 58,10317,Berlin
+644658975,52.5539606,13.3923404,Jülicher Apotheke,Jülicher Straße 27,13357,Berlin
+645677466,52.5265328,13.3357313,die Neue Apotheke,Turmstraße 77,10551,Berlin
+645677469,52.5268142,13.3365504,Arminius Apotheke,Turmstraße 38,10551,Berlin
+646579859,52.5034922,13.3429298,Ansbacher Apotheke,Ansbacher Straße 13,10787,Berlin
+647943536,52.5183557,13.3228681,Hubertus Apotheke am Salzufer,Salzufer 13/14,10587,Berlin
+650633578,52.523569,13.3363347,Ludwigs-Apotheke,Essener Straße 16,10555,Berlin
+653256888,52.4488384,13.3038018,Apotheke am Asternplatz,Asternplatz 3,12203,Berlin
+653289588,52.5410448,13.4403303,easyApotheke,Storkower Straße 5,10409,Berlin
+655975206,52.4144688,13.2659311,Friedrich Apotheke,Teltower Damm 216,14167,Berlin
+656006001,52.4234139,13.2419523,Düppel Apotheke,Ludwigsfelder Straße 53,14165,Berlin
+656210648,52.5325457,13.1556432,Mariannen-Apotheke,Brunsbütteler Damm 271,13591,Berlin
+658444284,52.541849,13.3503744,Apotheke am Augustenburger Platz,Triftstraße 37,13353,Berlin
+658612646,52.4607968,13.3241522,Schildhorn Apotheke,Schloßstraße 19,12163,Berlin
+661092195,52.5130881,13.3048087,Atlantis-Apotheke,Wilmersdorfer Straße 31,10585,Berlin
+661126965,52.5172034,13.3043479,Flora-Apotheke,,,
+663008203,52.4780536,13.2821088,Karlsbader Apotheke,Karlsbader Straße 18,14193,Berlin
+664028710,52.3771318,13.0941325,Apotheke am Schlaatz,Erlenhof 34,14478,Potsdam
+665535053,52.5080757,13.3018276,Pestalozzi Apotheke,Kaiser-Friedrich-Straße 45a,10627,Berlin
+666388871,52.4886003,13.3013735,Erasmus-Apotheke,Hohenzollerndamm 47a,10713,Berlin
+666961028,52.5379148,13.2799585,Siemensstadt Apotheke,Toeplerstraße 35,13627,Berlin
+667211329,52.5123167,13.2653691,Fürstenplatz-Apotheke,,,
+667211341,52.5117263,13.2679732,Apotheke Reichsstraße 100,Reichsstraße 100,14052,Berlin
+667211352,52.510638,13.2698479,Quant Apotheke,Reichsstraße 105,14052,Berlin
+667211375,52.5191931,13.2572734,Raphael-Apotheke,Reichsstraße 36,14052,Berlin
+667211386,52.5158753,13.2609904,Reichs-Apotheke,,,
+667211398,52.5160655,13.2616014,Apotheke am Steubenplatz,,,
+668246090,52.4497045,13.2530168,Barbara-Apotheke,Ladenstraße 9-10,14169,Berlin
+668899440,52.504119,13.5124502,Apotheke am Tierpark,Rummelsburger Straße 13,10315,Berlin
+670658040,52.4977903,13.3609228,Königin-Luise-Apotheke,Bülowstraße 23,10783,
+671210857,52.58365,13.301616,Annen-Apotheke,Ernststraße 62,13509,Berlin
+671390314,52.5235741,13.5438535,VitaCura-Apotheke,Marchwitzastraße 29 b,12681,Berlin
+671488820,52.5239265,13.4623091,Apotheke am S-Bahnhof Storkower Straße,Hermann-Blankenstein-Straße 38,10249,Berlin
+671696780,52.5185444,13.2787702,Westend - Apotheke,Spandauer Damm 130,14050,Berlin
+674086086,52.5480636,13.2013519,Kronen-Apotheke,Schönwalder Straße 29,13585,Berlin
+674316062,52.5044892,13.3075551,Gervinus-Apotheke,Wilmersdorfer Straße 106,10629,Berlin
+678295768,52.6208593,13.3136912,Waldsee-Apotheke,Berliner Straße 41,13467,Berlin
+689563385,52.4576143,13.3217071,Christophorus-Apotheke,Schloßstraße 88,12163,Berlin
+691484619,52.4580136,13.3299507,Althoff-Apotheke,Bergstraße 9,12169,Berlin
+691484670,52.4681185,13.3320209,Dr. Krachts Apotheke,Rheinstraße 52a,12161,Berlin
+699533239,52.4041242,13.5072138,Gartenstadt Apotheke,Lieselotte-Berger-Platz 9,12355,Berlin
+699538009,52.4201063,13.4920406,Apotheke Alt-Rudow,Alt-Rudow 26,12357,Berlin
+703042593,52.4292698,13.4779131,Paracelsus Apotheke,Neuköllner Straße 208,12357,Berlin
+703802174,52.4866223,13.3386726,Meraner Apotheke,Meraner Straße 16,10825,Berlin
+715203766,52.4729719,13.2991581,Möwen-Apotheke,Helgolandstraße 1,14199,Berlin
+715203882,52.4888204,13.3224732,Fortuna-Apotheke,Uhlandstraße 86,10717,Berlin
+715203887,52.4901513,13.3227162,Josephinen Apotheke,Uhlandstraße 79a,,
+715911607,52.5103771,13.2975749,Suarez-Apotheke,Suarezstraße 64,14057,Berlin
+718143915,52.5063159,13.2842068,Apotheke am Funkturm,Neue Kantstraße 18,14057,Berlin
+730172940,52.4931996,13.3667198,Goeben-Apotheke,Goebenstraße 15a,10783,Berlin
+733902771,52.4254275,13.4630198,Centrum Apotheke,Lipschitzallee 68,12353,Berlin
+737199963,52.5268005,13.478518,gesundLeben,,,
+738996191,52.4994495,13.3637956,Kurmark Apotheke,Kurfürstenstraße 154,10785,Berlin
+739897547,52.4335093,13.3598231,Sertürner,Wedellstraße 37,12249,Berlin
+746853027,52.5802494,13.3979998,Mariannen-Apotheke,,,
+747517159,52.5894147,13.4014334,Nordend-Apotheke,,,
+753467604,52.5714517,13.4108555,Mendel Apotheke,Breite Straße 6,13187,Berlin
+762002923,52.4870402,13.5749614,Heide-Apotheke,Chemnitzer Straße 203,12621,Berlin
+765341424,52.5657093,13.397257,Eulen Apotheke,Florastraße 4,13187,Berlin
+765566778,52.4321449,13.2591411,Adler-Apotheke,Teltower Damm 31,14169,Berlin
+766742178,52.4904307,13.4094009,Sternlicht Apotheke,Körtestraße 22,10967,Berlin
+766875155,52.4382284,13.5480046,Elefanten-Apotheke,Dörpfeldstraße 46,12489,Berlin
+766875188,52.4360165,13.543222,Adler Apotheke,Dörpfeldstraße 7,12489,Berlin
+769069918,52.67357,13.3168096,Bergfelder Apotheke,Birkenwerderstraße 4,16562,Hohen Neuendorf
+769270129,52.5743966,13.3595153,Kopenhagener Apotheke,Kopenhagener Straße 2,13407,Berlin
+769318454,52.573665,13.3594452,Lindauer-Apotheke,Residenzstraße 154,13409,Berlin
+769365479,52.5028987,13.4129908,Apotheke am Moritzplatz,Oranienstraße 158,10969,Berlin
+769847926,52.4908644,13.4158532,Urban-Apotheke,Urbanstraße 39,10967,Berlin
+769847931,52.4919934,13.4137912,Körte-Apotheke,Grimmstraße 17,10967,Berlin
+770651959,52.5544002,13.4317943,Sonnen Apotheke,Langhansstraße 82,13086,Berlin
+771332595,52.4979101,13.340083,Bavaria-Apotheke,Ansbacher Straße 53,10777,Berlin
+771769255,52.5394863,13.6428877,Apotheke,Am Grünzug 12,,
+775342929,52.4589046,13.3223417,Germania Apotheke,Schloßstraße 29,12163,Berlin
+775578347,52.5359441,13.4218153,Prenzlauer Apotheke,Prenzlauer Allee 214,10405,Berlin
+779215542,52.5745824,13.574102,Dorf-Apotheke,,,
+793198545,52.3640442,13.093141,Einhorn Apotheke,Saarmunder Straße 46,14478,Potsdam
+795255878,52.4509538,13.3409295,Brigitten-Apotheke,Steglitzer Damm 29,12169,Berlin
+808390982,52.5678366,13.5256044,Brunnen-Apotheke,Falkenberger Chaussee 134,13057,Berlin
+808390994,52.5648301,13.5075743,Auxilia-Apotheke,Prerower Platz 4,13051,Berlin
+808391031,52.5673914,13.5180117,Falken-Apotheke,Warnitzer Straße 20,13057,Berlin
+811187886,52.5323547,13.3509335,Nord-West-Apotheke,Rathenower Straße 26,10559,Berlin
+813811847,52.4429005,13.2960084,Curtius-Apotheke,Curtiusstraße 4,12205,Berlin
+816598789,52.5187383,13.342953,Apotheke am Hansaplatz,Bartningallee 5,10557,Berlin
+833390882,52.4646654,13.3261851,easyApotheke,Schloßstraße 1,12163,Berlin
+848509143,52.4992782,13.4196742,Apotheke Berg,Skalitzer Straße 133,10999,Berlin
+849520185,52.4414305,13.5873859,Wilhelm-Voigt-Apotheke,Pablo-Neruda-Straße 2-4,12559,Berlin
+853806321,52.4119945,13.4022416,Grüne Apotheke Lichtenrade,Lichtenrader Damm 24,12305,Berlin
+854996274,52.5506076,13.3630015,Utrechter Apotheke,Maxstraße 13,13347,Berlin
+858380325,52.5353861,13.2863661,Apotheke Charlottenburg-Nord,,,
+858382391,52.5555383,13.5592685,Klee-Apotheke,Mehrower Allee 20,12687,Berlin
+876479038,52.5121401,13.4551452,Grünberger Apotheke,Grünberger Straße 43-45,10245,Berlin
+882491958,52.4739437,13.7142151,Storchen Apotheke,,,
+892688636,52.3930749,13.2707436,Mühlendorf Apotheke,,,
+895721097,52.5270341,13.33413,Apollo-Apotheke,Turmstraße 46,10551,Berlin
+928338769,52.4981158,13.384792,Zieten Apotheke,Großbeerenstraße 11,10963,Berlin
+931645314,52.511747,13.2975184,Apotheke am Sophie-Charlotte-Platz,Schloßstraße 30,14059,Berlin
+931658983,52.484367,13.4434517,Lucia,,,
+933513518,52.4391125,13.2153565,Neue Apotheke am See,Breisgauer Straße 1A,14129,Berlin
+946947756,52.3602988,13.410233,Adler Apotheke,Am Bahnhof 3b,15831,Blankenfelde-Mahlow
+946948184,52.3609961,13.411332,Neue Apotheke,Trebbiner Straße 19,15831,Blankenfelde-Mahlow
+950786260,52.6724351,13.6025426,Phönix Apotheke,Sonnenallee 4,16321,Bernau bei Berlin
+956306643,52.5122639,13.3903812,Apotheke Q205,Friedrichstraße 68,10117,Berlin
+977657079,52.6171891,13.4903858,Achilles Apotheke,Achillesstraße 69,13125,Berlin
+983454566,52.5136594,13.4731765,Friedrich-Apotheke,Frankfurter Allee 100,10247,Berlin
+992805862,52.4372593,13.3451962,Flora-Apotheke,Leonorenstraße 91,12247,Berlin
+998713196,52.4196142,13.1575816,Wannsee Apotheke,Königstraße 18,14109,Berlin
+1008402120,52.4180116,13.436734,Punkt Apotheke,,,
+1018833559,52.4976442,13.4306508,Mozart Apotheke,Wiener Straße 18,10999,Berlin
+1020532583,52.4743541,13.2944008,Schmargendorfer Apotheke,Breite Straße 13,14199,Berlin
+1025343870,52.6311445,13.323361,Apotheke im Sonnengarten,Märkische Allee 76,16548,Glienicke/Nordbahn
+1032978552,52.535795,13.4961485,Stern-Apotheke,Landsberger Allee 277,13055,Berlin
+1037241970,52.5511687,13.163271,Damian Apotheke,Falkenseer Chaussee 196,13589,Berlin
+1038217551,52.5475503,13.1771981,Falken-Apotheke,Siegener Straße 59,13583,Berlin
+1042258380,52.4363152,13.2608479,Berolina Apotheke,Clayallee 345,14169,Berlin
+1050025508,52.6004217,13.1356924,Apotheke Schönwalde,,,
+1051174903,52.4107881,13.2617669,Süd-Apotheke,Ladiusstraße 31,14165,Berlin
+1075295993,52.4344191,13.2604293,Stadt Apotheke,Teltower Damm 5,14169,Berlin
+1082724258,52.3986066,13.2463955,Christophorus Apotheke,,,
+1082750111,52.4375339,13.2615692,Staufen-Apotheke,Clayallee 331,14169,Berlin
+1083676123,52.5010849,13.4083406,Prinzen Apotheke,Prinzenstraße 96,10969,Berlin
+1094105653,52.5277137,13.5386173,Baba Jaga,,,
+1110626664,52.4903456,13.4277648,Apotheke zum goldenen Anker,,,
+1124601226,52.6339256,13.2896726,Park-Apotheke,Zeltinger Platz 7,13465,Berlin
+1124612201,52.6325774,13.2869838,Ludolfinger-Apotheke,,,
+1143798306,52.5440277,13.4416805,pro-samed Apotheke,Greifswalder Straße 155,10409,Berlin
+1145597661,52.5774369,13.2791669,Apotheke am Tegeler See,Namslaustraße 83,13507,Berlin
+1163265616,52.5136253,13.2956492,Borussia-Apotheke,Knobelsdorffstraße 4,14059,Berlin
+1169920988,52.4388221,13.380108,easyApotheke,Großbeerenstraße 2,12107,Berlin
+1183753005,52.5735417,13.0917206,Rosen-Apotheke Nord,Krummer Luchweg 18,14612,Falkensee
+1200549656,52.3931294,13.2134523,Bäke-Apotheke,Potsdamer Allee 3,14532,Stahnsdorf
+1200964445,52.5103045,13.2826523,Witzleben Apotheke,Kaiserdamm 24,14057,Berlin
+1200964491,52.5102306,13.2814283,apotheke26,Kaiserdamm 26,14057,Berlin
+1207853561,52.6369193,13.2030876,Stahl Apotheke,Havelpassage 3,16761,Hennigsdorf
+1207853576,52.6371129,13.2009632,Storchen Apotheke,Havelpassage 2,16761,Hennigsdorf
+1212618057,52.4787595,13.5243036,Sonnenschein-Apotheke,,,
+1226991552,52.6471122,13.1991186,Akazien Apotheke,Waldstraße 56,16761,Hennigsdorf
+1234501223,52.5543245,13.3456342,Paul Gerhardt Apotheke,,,
+1235266856,52.4805013,13.6013424,Sonnen-Apotheke,,12623,Berlin
+1236581643,52.5501219,13.3530389,Doc+ Apotheke,Müllerstraße 40,13353,Berlin
+1246879588,52.3634355,13.0934185,Apotheke am Ravensberg,Saarmunder Straße 48,14478,Potsdam
+1246989790,52.5043488,13.4092742,Apotheke zum Schwan,Oranienstraße 64,10969,Berlin
+1252777062,52.5885653,13.2843949,Schloss-Apotheke Tegel,Berliner Straße 6,13507,Berlin
+1252944782,52.5895474,13.2826806,Alte Spree Apotheke,,,
+1257075697,52.5237553,13.4398917,Apotheke am Friedrichshain,,,
+1298246171,52.5405418,13.3938688,Vineta Apotheke,Brunnenstraße 121,13355,Berlin
+1298511709,52.5380192,13.3854708,Apotheke am Gartenplatz,,,
+1315650095,52.4920432,13.3869021,Kur-Apotheke,Mehringdamm 50,10961,Berlin
+1336599080,52.4553026,13.5770429,Dr. Rothes Apotheke,Bahnhofstraße 10,12555,Berlin
+1336725194,52.444918,13.5747201,Stadt-Apotheke,Grünstraße 24,12555,Berlin
+1336788980,52.427899,13.5848235,Süd-Apotheke,Wendenschloßstraße 324a,12557,Berlin
+1338226878,52.4973391,13.5217595,Jumbo Apotheke,Otto-Schmirgal-Straße 3,10319,Berlin
+1365702036,52.5424964,13.2388868,Haselhorster Apotheke,Gartenfelder Straße 109,13599,Berlin
+1374215630,52.533075,13.4221508,Immanuel Apotheke,Immanuelkirchstraße 2,10405,Berlin
+1375170411,52.557697,13.2189479,Kiwi Apotheke,Hugo-Cassirer-Straße 26,13587,Berlin
+1375297865,52.3963552,13.2411967,Apotheke im Markt,,,
+1397070332,52.4824434,13.3497166,Dominicus Apotheke,Hauptstraße 117,10827,Berlin
+1398576503,52.4699392,13.1008456,Königswald-Apotheke,Potsdamer Chaussee 106,14476,Potsdam
+1400224784,52.4370757,13.388732,Fritz Apotheke,Mariendorfer Damm 165,12107,Berlin
+1413247085,52.5369189,13.2672695,Apotheke 97,Nonnendammallee 97,13629,Berlin
+1419134521,52.5369057,13.2684032,Central Apotheke,Nonnendammallee 94,13629,Berlin
+1434256844,52.4885983,13.3390663,Apotheke am Bayerischen Platz,Bayerischer Platz 6,10779,Berlin
+1478057356,52.6632453,13.3787719,Fortuna-Apotheke,Hauptstraße 14,16567,Mühlenbecker Land
+1492336686,52.532136,13.431803,Esmarch Apotheke,Hufelandstraße 15,10407,Berlin
+1498608858,52.5060706,13.5582187,Apotheke Biesdorf-Süd,Weißenhöher Straße 88,12683,
+1504564883,52.5090106,13.451441,Warschauer Apotheke,Warschauer Straße 56,10243,Berlin
+1527942471,52.4846388,13.4285441,Apotheke Impuls,Karl-Marx-Straße 29,12043,Berlin
+1547845870,52.4648526,13.6984937,Apotheke Altes Kino,,,
+1552051348,52.5260899,13.3875545,MediosApotheke,Friedrichstraße 113A,10117,Berlin
+1554257377,52.4460352,13.372337,St.Hildegard Apotheke,Gersdorfstraße 50,12105,Berlin
+1557276120,52.476692,13.7001192,Adler-Apotheke,,,
+1575512027,52.4460263,13.329341,Tannenberg Apotheke,Birkbuschstraße 59,12167,Berlin
+1577132742,52.4513152,13.269836,Oskar Helene Apotheke,Clayallee 177,14195,Berlin
+1585171546,52.6097315,13.3294059,Fleming Apotheke,Zabel-Krüger-Damm 31,13469,Berlin
+1597559553,52.581118,13.4024597,Apotheke am Schlosspark,Hermann-Hesse-Straße 4a,13156,Berlin
+1617416107,52.4231693,13.3137602,aktiv Apotheke,Ostpreußendamm 139,12207,Berlin
+1617419904,52.4268932,13.3036661,Apotheke im Schweizer Viertel,Lausanner Straße 83,12205,Berlin
+1624585364,52.4988803,13.4203076,Vital-Apotheke,Skalitzer Straße 15,10999,Berlin
+1624946236,52.3971367,13.2447522,Apotheke,,,
+1628927163,52.5881829,13.4282736,Apotheke im Pankeviertel,Blankenburger Straße 153,13127,Berlin
+1632227368,52.4174336,13.3059616,Linden Apotheke,Lindenstraße 1a,12207,Berlin
+1636830086,52.4939436,13.4601281,Blaue Apotheke,,,
+1636845053,52.3620256,13.1344991,Kirchsteig-Apotheke,,,
+1640616159,52.595082,13.3333432,Bären-Apotheke,Oranienburger Straße 85-86,13437,Berlin
+1654832841,52.4367426,13.4564982,Hausapotheke - Vivantes Klinikum Neukölln,Kormoranweg 45,12351,Berlin
+1655132802,52.4385108,13.2707693,Sundgauer Apotheke,Berliner Straße 43b,,Berlin
+1659884034,52.5483468,13.3562137,Märkische Apotheke,Müllerstraße 33,13353,Berlin
+1663350357,52.5101873,13.4511485,BEZIRKSapotheke,Warschauer Straße 27,10243,Berlin
+1678448395,52.4652856,13.3104944,Forst Apotheke,Forststraße 31,12163,Berlin
+1703401473,52.471767,13.3235696,Apotheke am Schillerplatz,Stubenrauchstraße 58,12161,Berlin
+1704256871,52.3981287,13.3914745,Lichtenrader Apotheke,Barnetstraße 41-42,12305,Berlin
+1704342455,52.357738,13.4322873,Wendorff-Apotheke,Am Lückefeld 97,15831,Blankenfelde-Mahlow
+1719664188,52.5286228,13.4714754,Apotheke am Anton-Saefkow-Platz,Anton-Saefkow-Platz 8,10369,Berlin
+1721061596,52.4300081,13.1949978,Apotheke in Nikolassee,Prinz-Friedrich-Leopold-Straße 3,14129,Berlin
+1777151508,52.5708343,13.5635073,Apotheke am Stadtrand,Ahrensfelder Chaussee 141,12689,Berlin
+1782386007,52.4184421,13.496804,Neue Apotheke,Köpenicker Straße 184,12355,Berlin
+1812702381,52.5218163,13.6978506,Gartenstadt Apotheke,,,
+1828707071,52.5603111,13.4591942,Rennbahn Apotheke,Rennbahnstraße 22-23,13086,Berlin
+1833509167,52.4870726,13.2640301,Apotheke am Bahnhof Grunewald,Fontanestraße 4,14193,Berlin
+1833899878,52.4045008,13.2198581,Apotheke am Rathausmarkt,,,
+1845158730,52.5636023,13.3910866,Wollank Apotheke,Wollankstraße 30,13359,Berlin
+1863567226,52.532715,13.43824,Schwanen Apotheke,Hans-Otto-Straße 42,10407,Berlin
+1866461768,52.5461931,13.4455087,Ostsee-Apotheke,Greifswalder Straße 137,10409,Berlin
+1905963630,52.4987789,13.3248652,Fasanen-Apotheke,Uhlandstraße 158,10719,Berlin
+1906515104,52.4967633,13.3198452,Emser Apotheke,Emser Straße 44,10719,Berlin
+1914403852,52.5000244,13.3305311,Ranke-Apotheke,Joachimsthaler Straße 24,10719,Berlin
+1914552632,52.4970403,13.3234022,Apotheke am Ludwigkirchplatz,Pariser Straße 47,10719,Berlin
+1933362462,52.6360319,13.4934176,Viereck Apotheke,Wiltbergstraße 25,13125,Berlin
+1944887346,52.3760346,13.1298668,Orion Apotheke,Johannes-Kepler-Platz 5,14480,Potsdam
+1948961324,52.518856,13.2898547,Charlotten-Apotheke,,,
+1948961329,52.5152489,13.290931,Falken-Apotheke,Danckelmannstraße 51,14059,Berlin
+1963129662,52.4674061,13.4318149,Atoll-Apotheke,Hermannstraße 158A,12051,Berlin
+2013009698,52.4951332,13.4204287,Cottbusserdamm Apotheke,,,
+2018710520,52.4257157,13.4838189,Ibis Apotheke,Neuköllner Straße 261,12357,Berlin
+2026247343,52.5249854,13.5581377,Adler Apotheke,,,
+2026466974,52.5345031,13.5521929,Abacus Apotheke,,,
+2038240175,52.5211516,13.5874121,Spree Center Apotheke,Hellersdorfer Straße 77,12619,Berlin
+2039162001,52.4227979,13.4754642,Apotheke Wutzky-Center,,,
+2046807703,52.5730689,13.5049041,Wartenberger Apotheke,Egon-Erwin-Kisch-Straße 32,13059,Berlin
+2098147261,52.4467545,13.3418127,Doc Maier,Siemensstraße 2,12247,Berlin
+2098221272,52.4481027,13.3397351,Markus Apotheke,Albrechtstraße 51,12167,Berlin
+2110613369,52.5302571,13.3359327,Oldenburger Apotheke,Oldenburger Straße 37,10551,Berlin
+2139861333,52.4996926,13.3125891,Apotheke am Olivaer Platz,Olivaer Platz 17,10707,Berlin
+2139861379,52.4983773,13.311957,Cornelia-Apotheke,Konstanzer Straße 4,10707,Berlin
+2139861396,52.4963688,13.3110344,Konstanzer Apotheke,Konstanzer Straße 9,10707,Berlin
+2150847602,52.4213056,13.7538613,Libellen-Apotheke,,,
+2150847605,52.4220597,13.7535364,Maulbeer-Apotheke,,,
+2169170618,52.5368301,13.2024674,Preussen Apotheke Spandau,Carl-Schurz-Straße 29,13597,Berlin
+2181178545,52.506761,13.398262,Linden Apotheke,,,
+2222747269,52.3645856,13.594145,Apotheke am Rathaus,Richard-Israel-Straße 3,15732,Schulzendorf
+2251295178,52.5094033,13.2223693,Masuren-Apotheke,Angerburger Allee 45,14055,Berlin
+2273462199,52.56849,13.5108472,easyApotheke,Egon-Erwin-Kisch-Straße 80,13059,Berlin
+2274239284,52.5688682,13.5162437,Vitalis Apotheke,,,
+2284912435,52.3663888,13.0940105,Heinrich-Mann-Apotheke,Johannes-R.-Becher-Straße 65b,14478,Potsdam
+2288127751,52.5243574,13.3522408,Moabiter Apotheke,Alt-Moabit 18,10559,Berlin
+2320532525,52.4531286,13.1422529,Havelland-Apotheke,Sakrower Landstraße 6,14089,Berlin
+2320629344,52.5035594,13.3444884,Apotheke am Wittenbergplatz,Bayreuther Straße 44,10787,Berlin
+2325407968,52.4684978,13.4427459,Dafne-Apotheke,Karl-Marx-Straße 231-235,12055,Berlin
+2365398263,52.498265,13.3492398,Quartier Apotheke Motzstraße,Motzstraße 20,10777,Berlin
+2423122288,52.6065358,13.3192004,Octopus Apotheke,Waidmannsluster Damm 176,13469,Berlin
+2424327600,52.4766287,13.6007627,Süd-Apotheke,Hultschiner Damm 24,12623,Berlin
+2429162139,52.5696336,13.3297842,Löwen Apotheke,Ollenhauerstraße 110a,13403,Berlin
+2439759182,52.5101677,13.2724807,Lilien-Apotheke,Theodor-Heuss-Platz 6,14052,Berlin
+2445456645,52.4866571,13.3215081,Sylter Apotheke,Berliner Straße 37,10715,Berlin
+2476268050,52.478841,13.3299374,Blitz Apotheke,Wexstraße 30,10715,Berlin
+2484338009,52.4835661,13.4358446,Sonnenapotheke,Sonnenallee 76,12045,Berlin
+2496651331,52.4902187,13.3870554,Kreuzberg Apotheke,Mehringdamm 69,10961,Berlin
+2516120286,52.5504319,13.4597629,Flora-Apotheke,Berliner Allee 109,13088,Berlin
+2541179150,52.4762082,13.4391375,Apotheke Zum Elefanten,Karl-Marx-Straße 150,12043,Berlin
+2541258991,52.5065338,13.3064648,easyApotheke,Wilmersdorfer Straße 64,10627,Berlin
+2557710789,52.5251385,13.3436227,Spree-Apotheke,Alt-Moabit 89,10559,Berlin
+2638963983,52.4831066,13.3826359,Richthofen-Apotheke,Manfred-von-Richthofen-Straße 15,12101,Berlin
+2660101541,52.564408,13.726336,Adlerapotheke,Poststraße 15,15345,Altlandsberg
+2713665583,52.5117094,13.3046182,Apotheke im Bismarck-Karree,Bismarckstraße 45-47,10627,Berlin
+2717366804,52.4523689,13.3335365,Stadtpark-Apotheke,Albrechtstraße 94,12167,Berlin
+2719924788,52.516695,13.7485378,Kastanien-Apotheke,Ernst-Thälmann-Straße 16,15370,Petershagen
+2779341569,52.4985147,13.317788,Saint Charles Apotheke,Pariser Straße 20,10707,Berlin
+2782835460,52.6078978,13.3255639,Sanitas Apotheke,Oraniendamm 6-10,13469,Berlin
+2796710201,52.5221812,13.4024813,Apotheke Hackesches Quartier,Henriette-Herz-Platz 3,10178,Berlin
+2820029176,52.4387416,13.5506904,Apotheke an der Alten Schule,Dörpfeldstraße 55,12489,Berlin
+2829271312,52.5537834,13.3593736,Regenbogen Apotheke Berlin,,,
+2857712871,52.5347618,13.3977794,Achat Apotheke,Brunnenstraße 160,10115,Berlin
+2864467602,52.4245859,13.4360037,Post-Apotheke Buckow,,,
+2864491450,52.4231003,13.4356893,Apotheke Alt-Buckow,,,
+2867498526,52.4205157,13.4273954,Gertrauden Apotheke,,,
+2872185601,52.5323649,13.1975405,Kloster-Apotheke,Klosterstraße 6/7,13581,Berlin
+2952546845,52.5703596,13.3612245,Neue Apotheke,Residenzstraße 137,,Berlin
+2952573359,52.5667626,13.3630766,Residenz Apotheke,,,
+2969309057,52.4549833,13.1446817,Märkische Apotheke Kladow,Kladower Damm 366,14089,Berlin
+2998135448,52.4405588,13.5939645,Amtsfeld-Apotheke,Salvador-Allende-Straße 2–8,12559,Berlin
+3012143573,52.464407,13.5138972,Falken-Apotheke,Edisonstraße 18,12459,Berlin
+3041745938,52.4604721,13.3763073,Manteuffel-Apotheke,Manteuffelstraße 19,12103,Berlin
+3045761935,52.5745184,13.5094017,Amsel-Apotheke,Rostocker Straße 15,13059,Berlin
+3072343433,52.4952479,13.3410681,Apotheke am Viktoria-Luise-Platz,Viktoria-Luise-Platz 9,10777,Berlin
+3074964331,52.585693,13.3667283,Wilhelmsruher Apotheke,Hauptstraße 16,13158,Berlin
+3080747241,52.6343256,13.4943853,Ginkko-Apotheke,Walter-Friedrich-Straße 6,13125,Berlin
+3089158088,52.6169159,13.3070697,Leuchtturm Apotheke,Heinsestraße 32-34,13467,Berlin
+3112851447,52.6348377,13.4955488,Schlosspark-Apotheke,Walter-Friedrich-Straße 4A,13125,Berlin
+3118107216,52.5191748,13.5645435,Apotheke am ukb,,,
+3157838594,52.4672036,13.342445,Apotheke zum Zirkel,Beckerstraße 4,12157,Berlin
+3157917186,52.4713396,13.3347336,Lauter Apotheke,Rheinstraße 2,12159,Berlin
+3167654650,52.4875333,13.4256151,Apotheke am Hermannplatz,,,
+3206454429,52.5912527,13.28343,Karolinen Apotheke,Schloßstraße 5,13507,Berlin
+3216711374,52.4998605,13.4247979,Eick Apotheke,Oranienstraße 7,10997,Berlin
+3229138232,52.4622982,13.3262168,Diana Apotheke,Schloßstraße 116,12163,Berlin
+3300157792,52.616322,13.4855923,Karow Apotheke,Bucher Chaussee 1-3,13125,Berlin
+3307700070,52.5426874,13.4258787,Elisabeth Apotheke,Prenzlauer Allee 184,10405,Berlin
+3310052861,52.5299308,13.4017313,Sanimedius Apotheke,Weinbergsweg 1,10119,Berlin
+3310698935,52.5806283,13.4237469,Apotheke an der Galenusstraße,Galenusstraße 59,13187,Berlin
+3314954403,52.5592002,13.1327753,Regenbogen Apotheke,Spandauer Straße 144,14612,Falkensee
+3324061526,52.5612404,13.093181,Stadtapotheke Falkensee,,,
+3328147366,52.3647419,13.0928152,Waldstadt-Apotheke,Am Moosfenn 1,14478,Potsdam
+3328465002,52.3772852,13.1295703,Margeriten-Apotheke,Neuendorfer Straße 15,14480,Potsdam
+3328474346,52.6119717,13.4742827,Birken-Apotheke Karow,Bahnhofstraße 17A,13125,Berlin
+3331787468,52.5196854,13.3874475,Aschenbachs Apotheke,Georgenstraße 25,10117,Berlin
+3334327193,52.526505,13.3417528,Apotheke 4.0,Turmstraße 29,10551,Berlin
+3337674441,52.5233862,13.299693,Kristall Apotheke,Tegeler Weg 3,10589,Berlin
+3337738729,52.5390832,13.2994523,Apotheke am Heckerdamm,Heckerdamm 225,13627,Berlin
+3337776414,52.5492831,13.2003621,Eva-Apotheke,Schönwalder Straße 78-79,13585,Berlin
+3338623569,52.5212776,13.1854103,Apotheke Wilhelmstraße,Wilhelmstraße 24B,13593,Berlin
+3338651114,52.4030313,13.5237454,Gesundheits-Apotheke,Schönefelder Chaussee 233,12524,Berlin
+3339491292,52.6092923,13.335399,Titisee Apotheke,Titiseestraße 5,13469,Berlin
+3340079413,52.5894338,13.3346308,Oran-Apotheke,Oranienburger Straße 60,13437,Berlin
+3341588831,52.5578575,13.3787231,Kolonie-Apotheke,Koloniestraße 22,13359,Berlin
+3343659161,52.4986655,13.3621019,Bülow Apotheke,Potsdamer Straße 134/136,10783,Berlin
+3350477701,52.548374,13.3887526,Nordkreuz Apotheke,,13357,
+3353191483,52.4576052,13.3197716,Berlinda Apotheke,Schloßstraße 34,12163,Berlin
+3353229504,52.567326,13.4108465,MediosApotheke,,13187,Berlin
+3353236089,52.5333159,13.1977213,Arcaden-Apotheke,,,
+3353252595,52.4561207,13.3865318,Arcaden-Apotheke,Tempelhofer Damm 227,12099,Berlin
+3354050334,52.4721004,13.3275938,Dr. Rudes Apotheke,Friedrich-Wilhelm-Platz 6,12161,Berlin
+3354056741,52.4745587,13.3281255,Rheingau Apotheke,Bundesallee 72,12161,Berlin
+3357535140,52.5361903,13.4182329,Kollwitz-Apotheke,,,
+3374665796,52.5438614,13.3446673,Krankenhaus-Apotheke,,,
+3393462395,52.5150129,13.667861,Rennbahn-Apotheke,Lindenallee 7,15366,Hoppegarten
+3411987196,52.4565876,13.3754259,Wittekind-Apotheke am Attilaplatz,Manteuffelstraße 32,12103,Berlin
+3446123445,52.5323503,13.3968456,Sophien-Apotheke,Invalidenstraße 157,10115,Berlin
+3472167668,52.4939336,13.3535927,Apotheke Goltzstraße,Goltzstraße 35,10781,Berlin
+3556800140,52.5015768,13.3249245,Fontane-Apotheke,Uhlandstraße 28,10719,Berlin
+3625376503,52.463688,13.3261596,Titania Apotheke,Markelstraße 3,12163,Berlin
+3632641123,52.4843624,13.3533655,Feurig-Apotheke,Hauptstraße 131,10827,Berlin
+3632641432,52.4885088,13.3588471,Pommern Apotheke,Hauptstraße 152,10827,Berlin
+3644288801,52.4440241,13.5671809,Schloss Apotheke,Rudower Straße 13,12557,Berlin
+3652905896,52.48275,13.5270224,Rheinstein-Apotheke,Rheinsteinstraße 4-10,10318,Berlin
+3662929427,52.4682275,13.3418488,Cranach Apotheke,Cranachstraße 6,12157,Berlin
+3666540067,52.4947915,13.3384366,Roland Apotheke,Motzstraße 68,10777,Berlin
+3675973919,52.5006408,13.3306491,Apotheke in der Metropole,Joachimsthaler Straße 21,10719,Berlin
+3678881033,52.5045271,13.3317185,Apotheke am Zoo,Joachimsthaler Straße 38,10623,Berlin
+3686215389,52.4659153,13.4870512,Mörike Apotheke,Baumschulenstraße 90-91,12437,Berlin
+3714096733,52.6686334,13.2819882,Sorella-Apotheke,Albertstraße 6,16540,Hohen Neuendorf
+3727826475,52.5328339,13.4286374,Greifswalder Apotheke,Greifswalder Straße 207A,,
+3738119413,52.4226223,13.7522418,Stadt Apotheke,,,
+3770254015,52.4974009,13.5197847,Apotheke am Bärenschaufenster,Erich-Kurz-Straße 11,10319,Berlin
+3772676294,52.5648805,13.5063233,Linden-Apotheke,Prerower Platz 1,13051,Berlin
+3772699254,52.548811,13.6011442,Kaufpark Apotheke,,,
+3775184617,52.4864104,13.4299259,Pannier-Apotheke,,,
+3803786798,52.4598672,13.5798681,Apotheke im Gesundheitsforum Köpenick,,,
+3826013963,52.4984847,13.3508484,Magnus Apotheke,Motzstraße 11,10777,Berlin
+3826455882,52.4993503,13.3522231,Quartier Apotheke Nolleturm,Nollendorfplatz 3-4,10777,Berlin
+3826455892,52.500298,13.3489734,ViaPharm,Kleiststraße 34,10787,Berlin
+3834271596,52.5027647,13.3665376,Humboldt-Apotheke,Lützowstraße 93,10785,Berlin
+3844572789,52.4883801,13.3490721,St. Annen Apotheke,Eisenacher Straße 46,10823,Berlin
+3859397154,52.498601,13.3544313,Quartier Apotheke Maaßenstraße,Maaßenstraße 3,10777,Berlin
+3861762721,52.5027976,13.3197952,Hermes-Apotheke,Bleibtreustraße 40,10623,Berlin
+3883143867,52.4618568,13.5171942,Sonnen-Apotheke,Wilhelminenhofstraße 27,12459,Berlin
+3883215153,52.4638103,13.5184661,Kant - Apotheke,Griechische Allee 24,12459,Berlin
+3914041314,52.4510523,13.3356849,Sedan Apotheke,Albrechtstraße 41,12167,Berlin
+3928176957,52.6341477,13.2080763,Avitario-Apotheke,Neuendorfstraße 22 a,16761,Hennigsdorf
+3941585864,52.5427547,13.3929225,Jasmin Apotheke,Lortzingstraße 42,13355,Berlin
+3967123706,52.396622,13.7180644,Kreuz-Apotheke,Am Müggelpark 10-12,15537,Gosen-Neu Zittau
+3978727083,52.4522616,13.5867921,Pharmland,,,
+3987051088,52.5574272,13.5705133,Casana-Apotheke,Oberweißbacher Straße 7-9,12687,Berlin
+4010310541,52.5302632,13.6207446,Sonnenhut Apotheke,Riesaer Straße 102,12627,Berlin
+4015545332,52.5370795,13.6335543,Kranich Apotheke,,,
+4116109275,52.5441347,13.5484221,Marzahner Apotheke,,,
+4119531056,52.4885571,13.4538009,Bären-Apotheke,Elsenstraße 99,12435,Berlin
+4179445962,52.6332706,13.3096229,Neue Roland Apotheke,,,
+4197401453,52.5506141,13.385108,Die Herz Apotheke,Badstraße 12,,
+4221018789,52.5376932,13.6022698,Apotheke Helle Mitte,Fritz-Lang-Platz 6,12627,
+4234162689,52.5487229,13.3544811,Diana Apotheke,Müllerstraße 142,13353,Berlin
+4235016190,52.536915,13.6028472,Grüne Apotheke,Fritz-Lang-Straße 5,12627,
+4304413093,52.4569682,13.5777029,DocKöpenick,Bahnhofstraße 41,12555,Berlin
+4318602145,52.5191421,13.197578,Melanchthon Apotheke,,,
+4347330563,52.50064,13.3075874,Apotheke am Adenauerplatz,,,
+4365384392,52.5937649,13.4607566,Löwenburg-Apotheke,Alt-Blankenburg 67a,13129,Berlin
+4381928183,52.4796809,13.3276877,Apotheke am Bundesplatz,Bundesplatz 3,10715,Berlin
+4385486650,52.5162403,13.3815377,Brandenburger Tor Apotheke,,,
+4396193589,52.4125675,13.660795,Müggel-Apotheke,,,
+4396385781,52.4586221,13.3840737,Apotheke am T-Damm,Tempelhofer Damm 198-200,12099,Berlin
+4413004968,52.5651319,13.324363,Rosen-Apotheke,,,
+4415351535,52.5281171,13.3863624,Humboldt-Apotheke,Chausseestraße 7,10115,Berlin
+4436482370,52.5529761,13.3801354,Dafne Apotheke,Badstraße 32,13357,Berlin
+4439765092,52.6343857,13.4943757,Drive In,,,
+4444766336,52.4806678,13.4786116,Apotheke am Plänterwald,,,
+4485201590,52.3943701,13.410495,Apotheke Alt-Lichtenrade,Groß-Ziethener Straße 35,12309,Berlin
+4508100704,52.4497048,13.3478529,Südend-Apotheke,Steglitzer Damm 68,12169,Berlin
+4514495946,52.553737,13.4751797,Falken-Apotheke,,,
+4537781089,52.6361966,13.3737015,Steinbock Apotheke,Bahnhofstraße 5b,16552,
+4580235141,52.56738,13.3621478,easyApotheke Residenzstraße,Residenzstraße 33,13409,Berlin
+4590302593,52.4495841,13.2694016,Bärenapotheke,Clayallee 225,14195,Berlin
+4590578897,52.4315546,13.715511,Schneemann´s Apotheke Rahnsdorf,Fürstenwalder Allee 318,12589,Berlin
+4630466562,52.5662533,13.3456239,Wilhelm-Tell-Apotheke,,,
+4630466565,52.5678274,13.3514899,Primus-Apotheke,,,
+4656560689,52.467232,13.3082149,Zwilling Apotheke,,,
+4682866291,52.5290131,13.4566633,Haus Apotheke,Landsberger Allee 117,10407,Berlin
+4715153492,52.4544602,13.6254184,Rathaus-Apotheke,Bölschestraße 59,12587,Berlin
+4737978945,52.5520193,13.3487888,Kleo Apotheke,Müllerstraße 130,13349,Berlin
+4767441824,52.5292971,13.5926423,Corso Apotheke,,,
+4837190268,52.3795535,13.1412748,Jagdhaus-Apotheke,Wildeberstraße 30,14480,Potsdam
+4936116186,52.5463275,13.5924702,,,,
+4936408725,52.3870475,13.4092711,puls Apotheke,Goltzstraße 39,12307,Berlin
+4995631265,52.6372084,13.3758191,Fliesstal Apotheke,Hauptstraße 32,16552,Mühlenbecker Land
+5099191724,52.5035548,13.3351723,Apotheke des Westens,Rankestraße 34,10789,Berlin
+5136059327,52.5014929,13.320417,Apotheke am Kurfürstendamm,Kurfürstendamm 200,10719,Berlin
+5168728119,52.5869484,13.3682051,Edelweiss Apotheke,Hauptstraße 29A,13158,Berlin
+5181703340,52.5163596,13.3090809,Königliche Hof-Apotheke,Otto-Suhr-Allee 89,10585,Berlin
+5244950366,52.5608476,13.3688276,Tilia Apotheke,,,
+5266816861,52.5531267,13.4674421,Apotheke am Weißen See,Berliner Allee 168,13088,Berlin
+5381166353,52.4564723,13.5107243,Kiez-Apotheke,Schnellerstraße 127,12439,Berlin
+5471345775,52.5609831,13.422458,Center Apotheke,,,
+5505144605,52.4797463,13.3265646,Thüringer Apotheke,Mainzer Straße 13,10715,Berlin
+5539552743,52.4350381,13.2594338,Apotheke an der Dorfkirche,Potsdamer Straße 53,14163,Berlin
+5558763418,52.4167392,13.4961631,Kloster-Apotheke,,,
+5570687529,52.5336443,13.6093932,Linden-Apotheke,Mark-Twain-Straße 1,12627,
+5617991157,52.4852031,13.3627094,Zedern-Apotheke,Gustav-Müller-Straße 48,10829,Berlin
+5625098623,52.6178582,13.3083377,Hermsdorfer Apotheke,,,
+5777420980,52.5409918,13.4135467,Schönhauser Apotheke,Danziger Straße 5,10435,
+5838129619,52.4638126,13.3449085,Apotheke im Policum,,12157,
+5844370747,52.5279243,13.3437617,Premium Apotheke,,,
+5971003197,52.5286371,13.1918731,Die Herz Apotheke,Seeburger Straße 8,13581,Berlin
+6006371223,52.5353496,13.4355276,Lorbeer-Apotheke,Danziger Straße 133,10407,Berlin
+6143046477,52.506893,13.3736538,Pluspunkt Apotheke Potsdamer Platz,,,
+6200110157,52.5464133,13.4974134,Adler-Apotheke,Konrad-Wolf-Straße 132,13055,Berlin
+6254464585,52.5011294,13.340043,Apotheke im KaDeWe,,,
+6308903438,52.5017853,13.3223333,Bio 7.0 Apotheke,Kurfürstendamm 203-205,10719,Berlin
+6316429002,52.4740181,13.3379088,Stier-Apotheke,Hauptstraße 76,12159,Berlin
+6501792388,52.5622445,13.3567494,Am Schäfersee,,,
+6510008627,52.5339592,13.3791115,Feuerland-Apotheke,Chausseestraße 42,10115,Berlin
+6518240976,52.4444414,13.3999635,OLMS-Apotheke,Rixdorfer Straße 117,12109,Berlin
+6709515830,52.5556865,13.4677235,Amalien-Apotheke,Berliner Allee 196,13088,Berlin
+6939573755,52.4209973,13.5780562,Apotheke an der Dahme,Regattastraße 79,12527,Berlin
+7038292870,52.3698968,13.6082675,Lilienthal Apotheke,,15732,Schulzendorf
+7039246613,52.512012,13.3825855,Apotheke im Regierungsviertel,Wilhelmstraße 93,10117,Berlin
+7039503416,52.4779916,13.4257337,Die City Apotheke,Hermannstraße 51,12049,Berlin
+7072465637,52.5062602,13.6130564,Neumann Apotheke,Hönower Straße 16,12623,Berlin
+7090489961,52.4938077,13.5073306,Dolgensee-Apotheke,Dolgenseestraße 8a,10319,Berlin
+7093679841,52.5533211,13.4343492,Reseda-Apotheke,,,
+7223008667,52.4146728,13.3473596,Burg-Apotheke,,,
+7235438319,52.5609423,13.4995745,Schneemanns Apotheke,Hansastraße 236,13051,Berlin
+7551664105,52.4723391,13.3333185,Rathaus-Apotheke Friedenau,Niedstraße 35,12159,Berlin
+7627061713,52.5371206,13.2042266,Fontane Apotheke,,,
+7723893754,52.4881753,13.3405964,Unsere Apotheke,Bayerischer Platz 9,10779,Berlin
+7822423712,52.5459056,13.4285582,Herzpunkt Apotheke,,,
+7829177030,52.5218384,13.1632186,Zentrum Apotheke,Obstallee 28-30,13593,Berlin
+7843356143,52.5099653,13.3813694,Apotheke am Leipziger Platz,Leipziger Platz 12,,
+7858528547,52.5846771,13.2289448,,,,
+7887845846,52.5145858,13.4757401,Apotheke im Ring-Center II,Frankfurter Allee 113-117,10365,Berlin
+7924001320,52.505317,13.295222,Cäcilien Apotheke,Holtzendorffstraße 16,14057,Berlin
+7951875987,52.4990942,13.4404067,Fürst Bismarck Apotheke,Wrangelstraße 47,10997,Berlin
+8073935495,52.6660189,13.2963746,Apotheke am Mädchenviertel,Schönfließer Straße 25G,16540,Hohen Neuendorf
+8139335201,52.536995,13.6204854,Löwenzahn Apotheke,Louis-Lewin-Straße 99,12627,Berlin
+8463977955,52.5702396,13.4954864,Löwenzahn-Apotheke,Ribnitzer Straße 24,13051,Berlin
+8464152653,52.5646969,13.5711546,Känguruh-Apotheke,Wittenberger Straße 72,12689,Berlin
+8464152657,52.5684906,13.5686949,Atrium-Apotheke,,,
+8487216786,52.5554393,13.5608781,Hufeland-Apotheke,Mehrower Allee 22,12687,Berlin
+8668129617,52.5487826,13.4286319,Rialto,,,
+8754381377,52.4982597,13.4430026,Lukas Apotheke,Wrangelstraße 78,,
+8761696565,52.4330755,13.2597431,Zehlendorf Apotheke,Teltower Damm 19,14169,Berlin
+8766295040,52.3489865,13.625658,Löwen-Apotheke,Miersdorfer Chaussee 13A,15738,Zeuthen
+8836934513,52.6746826,13.5735977,Bären-Apotheke,Zepernicker Chaussee 9,,
+9048798363,52.4818918,13.4318468,easyApotheke,Karl-Marx-Straße 66,12043,Berlin
+9270238929,52.5626437,13.0954993,Löwen Apotheke Falkensee,Bahnhofstraße 48,14612,Falkensee
+9286730166,52.4325061,13.3915053,Apotheke zum Stift,,,
+9426545172,52.4036879,13.2492609,Teltow Apotheke,,,
+9665677325,52.4682465,13.3852028,Pelikan Discount Apotheke,Tempelhofer Damm 126,12099,Berlin
+9705828231,52.4764885,13.2887772,Grüne Apotheke Schmargendorf,"Berkaer Straße 41,42",14199,Berlin
+9799003817,52.5340933,13.5380235,Bromelia Apotheke,Märkische Allee 172,12681,
+9818005937,52.521879,13.1620771,Apotheke Heerstraße-Nord,,,
+9861117952,52.4153134,13.4030883,Panda-Apotheke,Marienfelder Chaussee 160,12349,Berlin
+9875439641,52.5378356,13.2182016,easyApotheke,,,
+9901787917,52.5642372,13.3284535,Apotheke am Kutschi,Ollenhauerstraße 3-5,13403,
+9975155187,52.4387079,13.3824627,Park-Apotheke,Forddamm 6-8,12107,Berlin
+10006282921,52.5017242,13.4330177,Wrangel-Apotheke,,,
+10018043153,52.525689,13.4222821,City Apotheke,Pauline-Staegemann-Straße 2-4,10249,Berlin
+10033057617,52.6052569,13.4323738,Buchholzer Apotheke,Hauptstraße 14,13127,Berlin
+10081874372,52.5537851,13.3593388,Prisma Apotheke,,,
+10109657661,52.4938498,13.3326554,Prager Apotheke,,10779,Berlin
+10658455542,52.540412,13.3948502,+1 Apotheke,Brunnenstraße 64,13355,Berlin
+10717290064,52.5536278,13.4507454,Weissenseer Apotheke,,,
+10804876421,52.4411922,13.6889974,,,,
+10982679274,52.5992401,13.3549158,easy Apotheke,,,
+10983944860,52.597978,13.3557529,Großkreuz-Apotheke,,,
+10983962574,52.597539,13.3557984,Äskulap-Apotheke,,,
+11078666918,52.5082273,13.4798799,Friedrichsberg-Apotheke,Schulze-Boysen-Straße 35,10365,Berlin
+11260371583,52.5416626,13.5641461,Alt Marzahner Apotheke,Allee der Kosmonauten 198,,
+11292996811,52.5018693,13.4322775,Wrangel Apotheke,Eisenbahnstraße 5,10997,Berlin
+11299983069,52.5011319,13.4411579,Apotheke am Schlesischen Tor,Skalitzer Straße 73,10997,Berlin
+11302270331,52.4021935,13.2569977,Sonnen Apotheke,Potsdamer Straße 48,14513,Teltow
+11418681907,52.5261333,13.5341455,Brücken Apotheke,Allee der Kosmonauten 47,12681,Berlin
+11565459167,52.5010737,13.3586243,easyApotheke Kurfürstenstrasse,Kurfürstenstraße 46,10785,Berlin
+11589912368,52.5372498,13.5885574,Kienberg-Apotheke,Suhler Straße 35-37,12629,Berlin
