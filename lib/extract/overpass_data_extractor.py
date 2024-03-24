@@ -26,11 +26,13 @@ points_of_interest_queries = [
     {"name": "kindergartens", "type": "node", "query": "amenity=kindergarten"},
     {"name": "childcare", "type": "node", "query": "amenity=childcare"},
     {"name": "libraries", "type": "node", "query": "amenity=library"},
+    {"name": "universities", "type": "node", "query": "amenity=university"},
 
     # Healthcare
     {"name": "doctors", "type": "node", "query": "amenity=doctors"},
     {"name": "pharmacies", "type": "node", "query": "amenity=pharmacy"},
     {"name": "clinics", "type": "node", "query": "amenity=clinic"},
+    {"name": "hospitals", "type": "node", "query": "amenity=hospital"},
 
     # Recreation and Leisure
     {"name": "sport_centers", "type": "node", "query": "leisure=sports_centre"},
@@ -73,6 +75,7 @@ points_of_interest_queries = [
 
     # Green Spaces
     # {"name": "parks", "type": "nwr", "query": "leisure=park"}, # TODO Find a way to count parks
+    # {"name": "recreation_ground", "type": "nwr", "query": "landuse=recreation_ground"},
     # {"name": "urban_gardens", "type": "node", "query": "landuse=allotments"},
     # {"name": "greenfield", "type": "node", "query": "landuse=greenfield"},
     # {"name": "grass", "type": "node", "query": "landuse=grass"},
