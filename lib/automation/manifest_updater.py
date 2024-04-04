@@ -26,7 +26,7 @@ def update_manifest(manifest_path, data_path):
     # Iterate over files
     for subdir, dirs, files in sorted(os.walk(data_path)):
         subdir = subdir.replace(f"{data_path}/", "")
-        for file in [file for file in files if not file.endswith("-cache.csv")]:
+        for file in sorted([file for file in files if not file.endswith("-cache.csv")]):
             file_url = f"https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/{subdir}/{file}"
 
             if csv_output_port["files"] is None:
