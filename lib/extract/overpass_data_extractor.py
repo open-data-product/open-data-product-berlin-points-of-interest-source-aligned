@@ -20,7 +20,7 @@ points_of_interest_queries = [
     {"name": "grocery_stores", "type": "node", "query": "shop=grocery"},
     {"name": "convenience_stores", "type": "node", "query": "shop=convenience"},
     {"name": "marketplaces", "type": "node", "query": "amenity=marketplace"},
-    {"name": "retail_areas", "type": "way", "query": "landuse=retail"},
+    # {"name": "retail_areas", "type": "way", "query": "landuse=retail"},
 
     # Education
     {"name": "schools", "type": "node", "query": "amenity=school"},

@@ -3,10 +3,9 @@ import shutil
 
 from lib.tracking_decorator import TrackingDecorator
 
-non_countable_items = [
+non_countable_places_of_interest = [
     "forests",
-    "parks",
-    "retail-areas",
+    "parks"
 ]
 
 
@@ -17,7 +16,7 @@ def load_data(source_path, results_path, clean=False, quiet=False):
         for file_name in sorted(files):
             _, file_extension = os.path.splitext(file_name)
 
-            if (file_extension in [".csv"] or any(item in file_name for item in non_countable_items)) \
+            if (file_extension in [".csv"] or any(item in file_name for item in non_countable_places_of_interest)) \
                     and "berlin-lor-geodata" not in subdir \
                     and "berlin-lor-population" not in subdir:
                 subdir = subdir.replace(f"{source_path}/", "")

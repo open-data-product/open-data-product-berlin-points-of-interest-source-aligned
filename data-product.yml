@@ -14,7 +14,7 @@ output_ports:
       author: Open Lifeworlds
       url: https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/tree/main/data
       license: CC-BY-4.0
-      updated: '2024-04-01'
+      updated: '2024-04-26'
     files:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-01/berlin-lor-points-of-interest-art-galleries-2024-01-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-01/berlin-lor-points-of-interest-bars-2024-01-details.csv
@@ -55,7 +55,6 @@ output_ports:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-01/berlin-lor-points-of-interest-theaters-2024-01-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-01/berlin-lor-points-of-interest-tram-stops-2024-01-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-01/berlin-lor-points-of-interest-ubahn-stops-2024-01-details.csv
-
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-art-galleries-2024-02-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-bars-2024-02-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-beer-gardens-2024-02-details.csv
@@ -95,7 +94,6 @@ output_ports:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-theaters-2024-02-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-tram-stops-2024-02-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-ubahn-stops-2024-02-details.csv
-
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-art-galleries-2024-03-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-bars-2024-03-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-beer-gardens-2024-03-details.csv
@@ -135,7 +133,6 @@ output_ports:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-theaters-2024-03-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-tram-stops-2024-03-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-ubahn-stops-2024-03-details.csv
-
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-art-galleries-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-bars-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-beer-gardens-2024-04-details.csv
@@ -163,8 +160,10 @@ output_ports:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-museums-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-nightclubs-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-offices-2024-04-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-parks-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-pharmacies-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-places-of-worship-2024-04-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-playgrounds-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-police-stations-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-post-offices-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-pubs-2024-04-details.csv
@@ -177,6 +176,18 @@ output_ports:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-tram-stops-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-ubahn-stops-2024-04-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-universities-2024-04-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-forests-2024-04-details.json
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-parks-2024-04-details.json
+  - id: berlin-lor-points-of-interest-json
+    metadata:
+      name: Berlin LOR points-of-interest json
+      author: Open Lifeworlds
+      url: https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/tree/main/data
+      license: CC-BY-4.0
+      updated: '2024-04-24'
+    files:
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-forests-2024-04-details.json
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/main/data/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-parks-2024-04-details.json
 metrics:
   - quality: null
   - operational: null
