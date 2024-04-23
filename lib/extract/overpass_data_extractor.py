@@ -8,8 +8,8 @@ from lib.tracking_decorator import TrackingDecorator
 
 points_of_interest_queries = [
     # Residential Areas
-    # {"name": "housing_complexes", "type": "node", "query": "building=residential"},
-    # {"name": "apartment_buildings", "type": "node", "query": "building=apartments"},
+    # {"name": "apartments", "type": "way", "query": "building=apartments"},
+    # {"name": "residential", "type": "way", "query": "landuse=residential"},
 
     # Workplaces
     {"name": "offices", "type": "nwr", "query": "office"},
@@ -19,7 +19,8 @@ points_of_interest_queries = [
     {"name": "supermarkets", "type": "node", "query": "shop=supermarket"},
     {"name": "grocery_stores", "type": "node", "query": "shop=grocery"},
     {"name": "convenience_stores", "type": "node", "query": "shop=convenience"},
-    # {"name": "markets", "type": "nwr", "query": "shop=market"},
+    {"name": "marketplaces", "type": "node", "query": "amenity=marketplace"},
+    {"name": "retail_areas", "type": "way", "query": "landuse=retail"},
 
     # Education
     {"name": "schools", "type": "node", "query": "amenity=school"},
@@ -48,7 +49,6 @@ points_of_interest_queries = [
     # Food and Dining
     {"name": "cafes", "type": "node", "query": "amenity=cafe"},
     {"name": "restaurants", "type": "node", "query": "amenity=restaurant"},
-    {"name": "marketplaces", "type": "node", "query": "amenity=marketplace"},
     {"name": "bars", "type": "node", "query": "amenity=bar"},
     {"name": "pubs", "type": "node", "query": "amenity=pub"},
     {"name": "beer_gardens", "type": "node", "query": "amenity=biergarten"},
@@ -75,11 +75,8 @@ points_of_interest_queries = [
     {"name": "places_of_worship", "type": "node", "query": "amenity=place_of_worship"},
 
     # Green Spaces
-    # {"name": "parks", "type": "nwr", "query": "leisure=park"}, # TODO Find a way to count parks
-    # {"name": "recreation_ground", "type": "nwr", "query": "landuse=recreation_ground"},
-    # {"name": "urban_gardens", "type": "node", "query": "landuse=allotments"},
-    # {"name": "greenfield", "type": "node", "query": "landuse=greenfield"},
-    # {"name": "grass", "type": "node", "query": "landuse=grass"},
+    {"name": "parks", "type": "nwr", "query": "leisure=park"},
+    {"name": "forests", "type": "nwr", "query": "landuse=forest"},
 ]
 
 
@@ -97,19 +94,26 @@ def extract_overpass_data(source_path, results_path, clean=False, quiet=False):
         type = points_of_interest_query["type"]
         query = points_of_interest_query["query"]
 
-        # Query Overpass API
-        overpass_json = extract_overpass_json(type, query, bounding_box[0], bounding_box[1], bounding_box[2],
-                                              bounding_box[3])
+        file_path = os.path.join(results_path, "berlin-lor-points-of-interest",
+                                 f"berlin-lor-points-of-interest-{name.replace('_', '-')}-details.json")
 
-        # Write json file
-        write_json_file(
-            file_path=os.path.join(results_path, "berlin-lor-points-of-interest",
-                                   f"berlin-lor-points-of-interest-{name.replace('_', '-')}-details.json"),
-            query_name=name,
-            json_content=overpass_json,
-            clean=clean,
-            quiet=quiet
-        )
+        if not os.path.exists(file_path) or clean:
+
+            # Query Overpass API
+            overpass_json = extract_overpass_json(type, query, bounding_box[0], bounding_box[1], bounding_box[2],
+                                                  bounding_box[3])
+
+            # Write json file
+            write_json_file(
+                file_path=os.path.join(results_path, "berlin-lor-points-of-interest",
+                                       f"berlin-lor-points-of-interest-{name.replace('_', '-')}-details.json"),
+                query_name=name,
+                json_content=overpass_json,
+                clean=clean,
+                quiet=quiet
+            )
+        else:
+            print(f"✓ Already exists {os.path.basename(file_path)}")
 
 
 def read_geojson_file(file_path):
@@ -138,16 +142,12 @@ out geom;
 
 
 def write_json_file(file_path, query_name, json_content, clean, quiet):
-    if not os.path.exists(file_path) or clean:
+    # Make results path
+    path_name = os.path.dirname(file_path)
+    os.makedirs(os.path.join(path_name), exist_ok=True)
 
-        # Make results path
-        path_name = os.path.dirname(file_path)
-        os.makedirs(os.path.join(path_name), exist_ok=True)
+    with open(file_path, "w", encoding="utf-8") as json_file:
+        json.dump(json_content, json_file, ensure_ascii=False)
 
-        with open(file_path, "w", encoding="utf-8") as json_file:
-            json.dump(json_content, json_file, ensure_ascii=False)
-
-            if not quiet:
-                print(f"✓ Extract data for {query_name.replace('_', '-')} into {os.path.basename(file_path)}")
-    else:
-        print(f"✓ Already exists {os.path.basename(file_path)}")
+        if not quiet:
+            print(f"✓ Extract data for {query_name.replace('_', '-')} into {os.path.basename(file_path)}")
