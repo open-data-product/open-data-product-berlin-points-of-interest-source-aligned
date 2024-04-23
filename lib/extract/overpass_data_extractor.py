@@ -37,6 +37,7 @@ points_of_interest_queries = [
     # Recreation and Leisure
     {"name": "sport_centers", "type": "node", "query": "leisure=sports_centre"},
     {"name": "fitness_centers", "type": "node", "query": "leisure=fitness_centre"},
+    {"name": "playgrounds", "type": "node", "query": "leisure=playground"},
 
     # Cultural Spaces
     {"name": "art_galleries", "type": "node", "query": "tourism=artwork"},
