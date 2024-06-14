@@ -1,4 +1,3 @@
-import json
 import os
 import unittest
 
@@ -74,7 +73,7 @@ statistics_names = [
 
     # Community Spaces
     "community_centers",
-    "places_of_worships",
+    "places_of_worship",
 
     # Green Spaces
     # "parks", # TODO Find a way to count parks
@@ -90,39 +89,15 @@ class FilesTestCase(unittest.TestCase):
 
 
 for year in [2024]:
-    for month in ["01"]:
-        for lor_area_type in ["districts", "forecast-areas", "district-regions", "planning-areas"]:
+    for month in ["01", "02", "03", "04", "05", "06"]:
+        for statistics_name in statistics_names:
             file = os.path.join(data_path, f"{key_figure_group}-{year}-{month}",
-                                f"{key_figure_group}-{year}-{month}-{lor_area_type}.geojson")
+                                f"{key_figure_group}-{statistics_name.replace('_', '-')}-{year}-{month}-details.csv")
             setattr(
                 FilesTestCase,
-                f"test_{key_figure_group}_{year}_{month}_{lor_area_type}".replace('-', '_'),
+                f"test_{key_figure_group}-{statistics_name}-{year}-{month}-details".replace('-', '_'),
                 lambda self, file=file: self.assertTrue(os.path.exists(file))
             )
-
-
-class PropertiesTestCase(unittest.TestCase):
-    pass
-
-
-for year in [2024]:
-    for month in ["01"]:
-        for lor_area_type in ["districts", "forecast-areas", "district-regions", "planning-areas"]:
-            for statistics_name in statistics_names:
-                file = os.path.join(data_path, f"{key_figure_group}-{year}-{month}",
-                                    f"{key_figure_group}-{year}-{month}-{lor_area_type}.geojson")
-                if os.path.exists(file):
-                    with open(file=file, mode="r", encoding="utf-8") as geojson_file:
-                        geojson = json.load(geojson_file, strict=False)
-
-                    for feature in geojson["features"]:
-                        feature_id = feature["properties"]["id"]
-                        setattr(
-                            PropertiesTestCase,
-                            f"test_{key_figure_group}_{year}_{month}_{lor_area_type}_{feature_id}".replace('-', '_'),
-                            lambda self, feature=feature: self.assertTrue(
-                                all(property in feature["properties"] for property in statistics_names))
-                        )
 
 if __name__ == '__main__':
     unittest.main()

@@ -4,8 +4,7 @@ metadata:
   ownership: Open Lifeworlds
   domain: statistics
   schema: null
-description: This data product provides Berlin points-of-interest data on different
-  LOR hierarchy levels
+description: This data product provides Berlin points-of-interest data
 input_ports: null
 output_ports:
   - id: berlin-lor-points-of-interest-csv
