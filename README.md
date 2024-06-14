@@ -1,3 +1,4 @@
+[![Crawl content](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml/badge.svg)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml)
 [![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/issues)
 
 <br />
