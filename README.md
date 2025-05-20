@@ -1,16 +1,16 @@
-[![Crawl content](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml/badge.svg)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml)
-[![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/issues)
+[![Crawl content](https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml/badge.svg)](https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml)
+[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-points-of-interest-source-aligned)](https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/issues)
 
 <br />
 <p align="center">
-  <a href="https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned">
-    <img src="logo_with_text.png" alt="Logo" height="80">
+  <a href="https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned">
+    <img src="logo-with-text.png" alt="Logo" height="80">
   </a>
 
-  <h1 align="center">Open Lifeworlds Data Product - Berlin LOR points of interest</h1>
+  <h1 align="center">Berlin points of interest</h1>
 
   <p align="center">
-    Source-aligned data product providing Berlin LOR points-of-interest data</a>
+    Source-aligned data product providing Berlin points-of-interest data</a>
   </p>
 </p>
 
@@ -48,7 +48,7 @@ Examples:
 
 ## Roadmap
 
-See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-points-of-interest-source-aligned/issues) for a list of proposed features (and
+See the [open issues](https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/issues) for a list of proposed features (and
  known issues).
 
 ## License
@@ -60,4 +60,4 @@ Data product distributed under the [CC-BY 4.0 License](https://creativecommons.o
 
 ## Contact
 
-openlifeworlds@gmail.com
+opendataproduct@gmail.com
