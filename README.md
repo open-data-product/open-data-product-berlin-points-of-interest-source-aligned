@@ -4,13 +4,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned">
-    <img src="logo-with-text.png" alt="Logo" height="80">
+    <img src="logo-with-text.png" alt="Logo" style="height: 80px; ">
   </a>
 
   <h1 align="center">Berlin points of interest</h1>
 
   <p align="center">
-    Source-aligned data product providing Berlin points-of-interest data</a>
+    Source-aligned data product providing Berlin points-of-interest data
   </p>
 </p>
 
