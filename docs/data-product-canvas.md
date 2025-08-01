@@ -5,7 +5,7 @@
 
 * owner: Open Data Product
 * description: This data product provides Berlin points-of-interest data
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 ## Output Ports
 
@@ -13,7 +13,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-01
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -61,7 +61,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-02
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -109,7 +109,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-03
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -157,7 +157,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-04
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -209,7 +209,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-05
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -261,7 +261,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-06
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -313,7 +313,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-07
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -365,7 +365,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-08
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -417,7 +417,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-09
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -469,7 +469,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-10
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -521,7 +521,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-11
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -573,7 +573,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-12
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -625,7 +625,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-01
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -677,7 +677,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-02
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -729,7 +729,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-03
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -781,7 +781,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-04
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -833,7 +833,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-05
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
@@ -885,7 +885,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-06
-* updated: 2025-06-21
+* updated: 2025-08-01
 
 **Files**
 
