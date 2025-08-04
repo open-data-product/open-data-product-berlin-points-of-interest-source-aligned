@@ -6,10 +6,24 @@ metadata:
   description: This data product provides Berlin points-of-interest data
   url:
   license:
-  updated: 2025-08-01
+  updated: 2025-08-20
   schema:
 input_ports:
-transformation_steps: []
+  - id: berlin-lor-city
+    metadata:
+      name: Berlin Lor City
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-berlin-lor-geodata/tree/main/data/02-silver/berlin-lor-city
+      license: CC-BY 4.0
+      updated: 2025-08-01
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-geodata/main/data/02-silver/berlin-lor-city/berlin-lor-city.geojson
+transformation_steps:
+  - name: POI csv converter
+    path: https://github.com/open-data-product/open-data-product-python-lib/blob/main/opendataproduct/transform/poi_csv_converter.py
+    description: converts json files into csv files
 output_ports:
   - id: berlin-lor-points-of-interest-2024-01
     metadata:

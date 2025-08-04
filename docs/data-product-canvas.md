@@ -5,7 +5,20 @@
 
 * owner: Open Data Product
 * description: This data product provides Berlin points-of-interest data
+* updated: 2025-08-20
+
+## Input Ports
+
+### Berlin Lor City
+
+* owner: Open Data Product
+* url: https://github.com/open-data-product/open-data-product-berlin-lor-geodata/tree/main/data/02-silver/berlin-lor-city
+* license: CC-BY 4.0
 * updated: 2025-08-01
+
+**Files**
+
+* [berlin-lor-city.geojson](https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-geodata/main/data/02-silver/berlin-lor-city/berlin-lor-city.geojson)
 
 ## Output Ports
 
