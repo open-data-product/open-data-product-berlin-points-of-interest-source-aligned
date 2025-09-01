@@ -6,7 +6,7 @@ metadata:
   description: This data product provides Berlin points-of-interest data
   url:
   license:
-  updated: 2025-08-20
+  updated: 2025-09-01
   schema:
 input_ports:
   - id: berlin-lor-city
@@ -32,7 +32,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-01
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-01/berlin-lor-points-of-interest-art-galleries-2024-01-details.csv
@@ -81,7 +81,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-02
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-02/berlin-lor-points-of-interest-art-galleries-2024-02-details.csv
@@ -130,7 +130,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-03
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-03/berlin-lor-points-of-interest-art-galleries-2024-03-details.csv
@@ -179,7 +179,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-04
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-04/berlin-lor-points-of-interest-art-galleries-2024-04-details.csv
@@ -232,7 +232,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-05
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-05/berlin-lor-points-of-interest-art-galleries-2024-05-details.csv
@@ -285,7 +285,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-06
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-06/berlin-lor-points-of-interest-art-galleries-2024-06-details.csv
@@ -338,7 +338,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-07
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-07/berlin-lor-points-of-interest-art-galleries-2024-07-details.csv
@@ -391,7 +391,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-08
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-08/berlin-lor-points-of-interest-art-galleries-2024-08-details.csv
@@ -444,7 +444,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-09
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-09/berlin-lor-points-of-interest-art-galleries-2024-09-details.csv
@@ -497,7 +497,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-10
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-10/berlin-lor-points-of-interest-art-galleries-2024-10-details.csv
@@ -550,7 +550,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-11
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-11/berlin-lor-points-of-interest-art-galleries-2024-11-details.csv
@@ -603,7 +603,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2024-12
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2024-12/berlin-lor-points-of-interest-art-galleries-2024-12-details.csv
@@ -656,7 +656,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-01
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2025-01/berlin-lor-points-of-interest-art-galleries-2025-01-details.csv
@@ -709,7 +709,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-02
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2025-02/berlin-lor-points-of-interest-art-galleries-2025-02-details.csv
@@ -762,7 +762,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-03
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2025-03/berlin-lor-points-of-interest-art-galleries-2025-03-details.csv
@@ -815,7 +815,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-04
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2025-04/berlin-lor-points-of-interest-art-galleries-2025-04-details.csv
@@ -868,7 +868,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-05
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2025-05/berlin-lor-points-of-interest-art-galleries-2025-05-details.csv
@@ -921,7 +921,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-lor-points-of-interest-2025-06
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-lor-points-of-interest-2025-06/berlin-lor-points-of-interest-art-galleries-2025-06-details.csv
@@ -974,7 +974,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-points-of-interest-2025-08
       license:
-      updated: 2025-08-20
+      updated: 2025-09-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-08/berlin-points-of-interest-art-galleries-details.csv
@@ -1020,6 +1020,59 @@ output_ports:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-08/berlin-points-of-interest-tram-stops-details.csv
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-08/berlin-points-of-interest-ubahn-stops-details.csv
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-08/berlin-points-of-interest-universities-details.csv
+  - id: berlin-points-of-interest-2025-09
+    metadata:
+      name: Berlin Points Of Interest 2025 09
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/02-silver/berlin-points-of-interest-2025-09
+      license:
+      updated: 2025-09-01
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-art-galleries-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-bars-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-beer-gardens-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-bicycle-rentals-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-bus-stops-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-cafes-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-car-sharing-stations-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-childcare-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-cinemas-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-clinics-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-community-centers-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-convenience-stores-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-coworking-spaces-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-doctors-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-fast-food-restaurants-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-fire-stations-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-fitness-centers-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-food-courts-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-grocery-stores-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-hospitals-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-ice-cream-parlours-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-kindergartens-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-libraries-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-marketplaces-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-museums-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-nightclubs-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-offices-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-parks-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-pharmacies-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-places-of-worship-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-playgrounds-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-police-stations-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-post-offices-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-pubs-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-restaurants-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-sbahn-stops-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-schools-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-sport-centers-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-supermarkets-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-theaters-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-tram-stops-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-ubahn-stops-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/02-silver/berlin-points-of-interest-2025-09/berlin-points-of-interest-universities-details.csv
 observability:
 consumers: []
 use_cases: []
