@@ -10,5 +10,4 @@
 **/~*.xlsx
 
 /data/01-bronze
-/data/02-silver/**/*.json
-/data/02-silver/berlin-lor-city/
+/data/02-silver
