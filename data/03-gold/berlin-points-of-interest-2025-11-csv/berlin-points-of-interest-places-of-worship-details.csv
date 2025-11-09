@@ -1,6 +1,6 @@
 id,name,street,zip_code,lat,lon,geojson_feature_id
 29040731,Sultan Ahmed Camii,,,52.5347753,13.3587758,01200623
-29209127,,,,52.495182,13.390379,02200210
+29209127,"Kirchhof Jerusalem und Neue Kirche I, II und III",,,52.495182,13.390379,02200210
 248702772,Martin-Luther-Kapelle,,,52.6010205,13.2966171,12500824
 262876026,Evangelisch-methodistische Kirche,,,52.3712135,13.6128519,0
 289795838,St. Wilhelm,Weißenburger Straße 9-11,13595,52.5225069,13.1954192,05200630
@@ -31,7 +31,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 1404465171,Königreichssaal Jehovas Zeugen,Weißenburger Straße 35,13595,52.5235611,13.2012548,05200631
 1404484782,Königreichssaal Jehovas Zeugen,Seeburger Straße 32E,13581,52.5276681,13.1824095,05200629
 1505231652,Schloßkirche,,,52.4436435,13.5739658,09401534
-1556403863,Immanuel-Kapelle Baptisten-Gemeinde,,13086,52.5527163,13.4403343,03500934
+1556403863,Baptisten-Gemeinde,,13086,52.5526918,13.440396,03500934
 1602071051,Franziskanerkloster,,13187,52.5659379,13.3945595,03400721
 1813041607,St. Franziskus - Kapelle,,,52.5059403,13.3457893,01100101
 1891429795,Stadtmission Gemeinde Tegel,Billerbecker Weg 112-114,13507,52.5751024,13.2752084,12200412
@@ -102,7 +102,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 4486714441,Kabbalah Center Berlin,"Hauptstraße 27, Eingang E",10827,52.4860967,13.354092,07200409
 4777467917,Yunus Emre Moschee,Reinickendorfer Straße 38-39,13347,52.5489342,13.3692443,01401044
 4817551642,LIFE e.V.,Wilhelmshavener Straße 4,10551,52.5279959,13.3415596,01200520
-4879970440,Zentralmoschee,,,52.4983623,13.4283306,02300417
+4879970440,Zentralmoschee,Wiener Straße 12,10999,52.4983623,13.4283306,02300417
 4899779632,Redeemed Christian Church of God - Mount Zion Parish,Badstraße 34,13357,52.5534058,13.3804495,01401045
 4917235508,Dominikanerkloster Sankt Paulus,Oldenburger Straße 46,10551,52.5276208,13.3353974,01200519
 4926337191,Johannische Kirche,,,52.4885844,13.2775636,04400726
@@ -126,7 +126,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 5976092238,Semerkant Moschee,Kurfürstenstraße 37,,52.5004818,13.3608288,01100103
 5976101318,Orhan Gazi Camii,Obentrautstraße 35,10963,52.4965099,13.3850921,02200208
 5976130396,Neukölln Camii,Hermannstraße 177,12051,52.4715918,13.4293871,08100104
-5980150601,Muradiye Camii - Türkisch-Islamischer Kulturverein e.V.,,,52.4905131,13.4240271,08100311
+5980150601,Muradiye Camii - Türkisch-Islamischer Kulturverein e.V.,Kottbusser Damm 75,10967,52.4905131,13.4240271,08100311
 5980162241,Moschee Al-Salam,Goslarer Platz 5,,52.5247106,13.3132266,04300518
 5980184803,Mimar Sinan Camii,Hermannstraße 120,,52.4656222,13.4321418,08100105
 5988221849,Ibrahim-al-Khalil-Moschee,,,52.4575259,13.3950503,07400927
@@ -137,7 +137,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 6416786756,Dorfkirche Löhme,Löhmer Dorfstraße 44a,16356,52.6287111,13.6730515,0
 6451805759,Dharma Mati,Soorstraße 85,14050,52.5170517,13.2791877,04200311
 6479789902,American Church in Berlin,Bülowstraße 71-72,10783,52.4967907,13.3664292,07100205
-6501792288,Sikh tempel,,,52.5675373,13.3310917,12100205
 6573713854,Kirche Mariae Verkündigung,,,52.5136549,13.2589531,04200309
 6587735838,Wat Buddhavihara Berlin,,,52.5693535,13.4460908,03300516
 6609901764,Zen Zentrum Berlin,Gottschedstraße 4,13357,52.5498509,13.3698805,01401044
@@ -166,12 +165,11 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 9354973732,Evangelische Freikirche Leuchtturm,,12621,52.5047514,13.5818309,10400837
 9592974541,,,,52.5394635,13.5779309,10100316
 9592974542,Pura Tri Hita Karana,,,52.5394723,13.5777427,10100316
-9610861154,,,,52.5680221,13.3671997,12100102
+9610861154,Word of Faith Outreach International Center,,,52.5680221,13.3671997,12100102
 9689643017,Buddhismus in Berlin e.V.,Neckarstraße 12,12053,52.4801734,13.4324713,08100206
 9794512245,Gemeinde Christi Breitenbachplatz,Forststraße 24,12163,52.465579,13.3107756,06100101
 10027402644,Miao Fa Zentrum,Streitstraße 23,13587,52.56015,13.2084891,05100104
 10599872965,Ensar Camii,,,52.5192755,13.2907681,04300412
-10863033622,Victory Center Potsdam,Schilfhof 24,14478,52.3776256,13.0957145,0
 10863033623,Berlin Full Gospel Church,Blunckstraße 14,13437,52.5809262,13.3360945,12500930
 10863195254,Centre Chrétien Agape e.V.,Knobelsdorffstraße 74,14059,52.5131624,13.284142,04200311
 11072479451,,Mariendorfer Damm 347,12107,52.422699,13.3968698,07501135
@@ -194,3 +192,5 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12488412438,Saddleback Berlin,Zimmerstraße 23,10969,52.5075981,13.3909919,02100102
 12840337563,Reset Berlin,Detmolder Straße 4,10715,52.4788855,13.3265285,04501151
 13019514472,Neuapostolische Kirche Berlin-Adlershof,Handjerystraße 27,12489,52.4368694,13.5538472,09200717
+13241106232,Ikra Bashkimi,Reinickendorfer Straße 50a,,52.5509133,13.3680207,01401044
+13251611170,Landeskirchliche Gemeinschaft (LKG) Woltersdorf,Werderstraße 9,15569,52.4470663,13.7602482,0

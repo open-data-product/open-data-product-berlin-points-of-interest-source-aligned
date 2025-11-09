@@ -75,7 +75,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 6410792688,Akademie der Gesundheit,Schwanebecker Chaussee 4 E-H,13125,52.6331664,13.5072943,03100102
 6422859463,Freie Grundschule Pfefferwerk,Schönfließer Straße 7,10439,52.5533032,13.4097119,03601141
 6422859464,Freie Sekundarschule PepperMont,,,52.552951,13.4096543,03601141
-7014964448,Aktive Schule Potsdam,Liefelds Grund 23-25,14478,52.359424,13.0939087,0
+7014964448,Aktive Schule Potsdam,Liefelds Grund 23-25,14478,52.3593169,13.0935295,0
 7282070071,Grundschule am Blumenhag,Zepernicker Chaussee 24,16321,52.6749199,13.570361,0
 7282070072,Tobias-Seiler-Oberschule Bernau,Zepernicker Chaussee 20,16321,52.6749457,13.5720903,0
 7685796317,Prestige Kosmetikakademie,Berliner Straße 53,10713,52.4866263,13.3164868,04501146
@@ -117,7 +117,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12797375598,"15. Schule
 ISS mit gymnasialer Oberstufe - 11K15",Allee der Kosmonauten 22,10315,52.5249629,13.5133643,11300721
 12797375599,12. Gymnasium Lichtenberg 11Y12,Allee der Kosmonauten 22,10315,52.5248369,13.5139044,11300721
-12991942701,actorfactory,"Crellestraße 19/20, 2. Hof",10827,52.4873829,13.3612942,07200411
 12992163102,"Schauspielschule ""Der Kreis"" Fritz-Kirchhoff-Schule","Teilestraße 11—13, Tor 3",12099,52.4591189,13.4079761,07400927
 12992212501,die schauspielfabrik berlin,Urbanstraße 70A,10967,52.4881953,13.4230643,02200212
 13050559747,Ostkreuzschule für Fotografie,Behaimstraße 32/34,13086,52.5504641,13.4472819,03500935
