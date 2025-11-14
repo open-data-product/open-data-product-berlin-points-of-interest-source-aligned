@@ -5,7 +5,7 @@
 
 * owner: Open Data Product
 * description: This data product provides Berlin points-of-interest data
-* updated: 2025-10-27
+* updated: 2025-10-28
 
 ## Input Ports
 
@@ -30,7 +30,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-08
-* updated: 2025-10-27
+* updated: 2025-10-28
 
 **Files**
 
@@ -82,7 +82,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-09
-* updated: 2025-10-27
+* updated: 2025-10-28
 
 **Files**
 
@@ -134,7 +134,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-10
-* updated: 2025-10-27
+* updated: 2025-10-28
 
 **Files**
 

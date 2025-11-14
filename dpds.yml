@@ -1,0 +1,77 @@
+---
+dataProductDescriptor: data-product-descriptor
+info:
+  fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:berlin-points-of-interest-source-aligned:1.0
+  name: Berlin Points of Interest (source-aligned)
+  version: '1.0'
+  domain: domain
+  owner:
+    id: Open Data product
+    name: Open Data product
+  id: berlin-points-of-interest-source-aligned
+  entityType:
+  displayName: Berlin Points of Interest (source-aligned)
+  description: This data product provides Berlin points-of-interest data
+  contactPoints:
+interfaceComponents:
+  outputPorts:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2025-08
+      fullyQualifiedName: berlin-points-of-interest-2025-08
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2025-09
+      fullyQualifiedName: berlin-points-of-interest-2025-09
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2025-10
+      fullyQualifiedName: berlin-points-of-interest-2025-10
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+  inputPorts:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-lor-city
+      fullyQualifiedName: berlin-lor-city
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+  discoveryPorts:
+  observabilityPorts:
+  controlPorts:
+internalComponents:
+components:
+tags:
+externalDocs:
