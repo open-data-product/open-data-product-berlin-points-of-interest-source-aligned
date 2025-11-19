@@ -22,14 +22,26 @@
 ### Input Ports
 #### berlin-lor-city
 * fully qualified name: berlin-lor-city
+#### berlin-lor-district-regions-from-2021
+* fully qualified name: berlin-lor-district-regions-from-2021
+#### berlin-lor-district-regions-until-2020
+* fully qualified name: berlin-lor-district-regions-until-2020
+#### berlin-lor-districts
+* fully qualified name: berlin-lor-districts
+#### berlin-lor-forecast-areas-from-2021
+* fully qualified name: berlin-lor-forecast-areas-from-2021
+#### berlin-lor-forecast-areas-until-2020
+* fully qualified name: berlin-lor-forecast-areas-until-2020
+#### berlin-lor-planning-areas-from-2021
+* fully qualified name: berlin-lor-planning-areas-from-2021
+#### berlin-lor-planning-areas-until-2020
+* fully qualified name: berlin-lor-planning-areas-until-2020
 
 ### Output Ports
-#### berlin-points-of-interest-2025-08
-* fully qualified name: berlin-points-of-interest-2025-08
-#### berlin-points-of-interest-2025-09
-* fully qualified name: berlin-points-of-interest-2025-09
-#### berlin-points-of-interest-2025-10
-* fully qualified name: berlin-points-of-interest-2025-10
+#### berlin-points-of-interest-2025-10-csv
+* fully qualified name: berlin-points-of-interest-2025-10-csv
+#### berlin-points-of-interest-2025-10-parquet
+* fully qualified name: berlin-points-of-interest-2025-10-parquet
 
 
 ---
