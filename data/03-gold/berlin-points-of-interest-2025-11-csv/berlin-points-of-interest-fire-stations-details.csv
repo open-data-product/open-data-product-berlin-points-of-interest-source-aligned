@@ -6,7 +6,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 270905719,Freiwillige Feuerwehr Wilhelmshagen,,,52.4367173,13.716157,09501838
 309402997,Freiwillige Feuerwehr Ruhlsdorf,,,52.3733085,13.2605811,0
 330880463,Freiwillige Feuerwehr Mitte,,,52.5265525,13.3891997,01100309
-339387524,Freiwillige Feuerwehr Karow,Alt-Karow 10/11,13125,52.6111032,13.4830902,03300413
+339387524,Freiwillige Feuerwehr Karow,,,52.6111032,13.4830902,03300413
 343472804,Berufsfeuerwache Karlshorst,,,52.484016,13.5206765,11501339
 365075276,Freiwillige Feuerwehr Schulzendorf,,,52.3588236,13.5912062,0
 450174418,Freiwillige Feuerwehr Karlshorst,,,52.4838386,13.520221,11501339

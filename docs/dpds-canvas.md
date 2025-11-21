@@ -38,10 +38,6 @@
 * fully qualified name: berlin-lor-planning-areas-until-2020
 
 ### Output Ports
-#### berlin-points-of-interest-2025-10-csv
-* fully qualified name: berlin-points-of-interest-2025-10-csv
-#### berlin-points-of-interest-2025-10-parquet
-* fully qualified name: berlin-points-of-interest-2025-10-parquet
 #### berlin-points-of-interest-2025-11-csv
 * fully qualified name: berlin-points-of-interest-2025-11-csv
 #### berlin-points-of-interest-2025-11-parquet
