@@ -22,19 +22,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-art-galleries-details.csv
-        target_file_name: berlin-points-of-interest-art-galleries-district.csv
+        target_file_name: berlin-points-of-interest-art-galleries-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-art-galleries-details.csv
-        target_file_name: berlin-points-of-interest-art-galleries-forecast-area.csv
+        target_file_name: berlin-points-of-interest-art-galleries-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-art-galleries-details.csv
-        target_file_name: berlin-points-of-interest-art-galleries-district-region.csv
+        target_file_name: berlin-points-of-interest-art-galleries-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-art-galleries-details.csv
-        target_file_name: berlin-points-of-interest-art-galleries-planning-area.csv
+        target_file_name: berlin-points-of-interest-art-galleries-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-bars-details.csv
@@ -42,19 +42,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-bars-details.csv
-        target_file_name: berlin-points-of-interest-bars-district.csv
+        target_file_name: berlin-points-of-interest-bars-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-bars-details.csv
-        target_file_name: berlin-points-of-interest-bars-forecast-area.csv
+        target_file_name: berlin-points-of-interest-bars-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-bars-details.csv
-        target_file_name: berlin-points-of-interest-bars-district-region.csv
+        target_file_name: berlin-points-of-interest-bars-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-bars-details.csv
-        target_file_name: berlin-points-of-interest-bars-planning-area.csv
+        target_file_name: berlin-points-of-interest-bars-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-beer-gardens-details.csv
@@ -62,19 +62,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-beer-gardens-details.csv
-        target_file_name: berlin-points-of-interest-beer-gardens-district.csv
+        target_file_name: berlin-points-of-interest-beer-gardens-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-beer-gardens-details.csv
-        target_file_name: berlin-points-of-interest-beer-gardens-forecast-area.csv
+        target_file_name: berlin-points-of-interest-beer-gardens-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-beer-gardens-details.csv
-        target_file_name: berlin-points-of-interest-beer-gardens-district-region.csv
+        target_file_name: berlin-points-of-interest-beer-gardens-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-beer-gardens-details.csv
-        target_file_name: berlin-points-of-interest-beer-gardens-planning-area.csv
+        target_file_name: berlin-points-of-interest-beer-gardens-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-bicycle-rentals-details.csv
@@ -82,19 +82,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-bicycle-rentals-details.csv
-        target_file_name: berlin-points-of-interest-bicycle-rentals-district.csv
+        target_file_name: berlin-points-of-interest-bicycle-rentals-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-bicycle-rentals-details.csv
-        target_file_name: berlin-points-of-interest-bicycle-rentals-forecast-area.csv
+        target_file_name: berlin-points-of-interest-bicycle-rentals-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-bicycle-rentals-details.csv
-        target_file_name: berlin-points-of-interest-bicycle-rentals-district-region.csv
+        target_file_name: berlin-points-of-interest-bicycle-rentals-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-bicycle-rentals-details.csv
-        target_file_name: berlin-points-of-interest-bicycle-rentals-planning-area.csv
+        target_file_name: berlin-points-of-interest-bicycle-rentals-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-bus-stops-details.csv
@@ -102,19 +102,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-bus-stops-details.csv
-        target_file_name: berlin-points-of-interest-bus-stops-district.csv
+        target_file_name: berlin-points-of-interest-bus-stops-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-bus-stops-details.csv
-        target_file_name: berlin-points-of-interest-bus-stops-forecast-area.csv
+        target_file_name: berlin-points-of-interest-bus-stops-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-bus-stops-details.csv
-        target_file_name: berlin-points-of-interest-bus-stops-district-region.csv
+        target_file_name: berlin-points-of-interest-bus-stops-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-bus-stops-details.csv
-        target_file_name: berlin-points-of-interest-bus-stops-planning-area.csv
+        target_file_name: berlin-points-of-interest-bus-stops-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-cafes-details.csv
@@ -122,19 +122,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-cafes-details.csv
-        target_file_name: berlin-points-of-interest-cafes-district.csv
+        target_file_name: berlin-points-of-interest-cafes-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-cafes-details.csv
-        target_file_name: berlin-points-of-interest-cafes-forecast-area.csv
+        target_file_name: berlin-points-of-interest-cafes-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-cafes-details.csv
-        target_file_name: berlin-points-of-interest-cafes-district-region.csv
+        target_file_name: berlin-points-of-interest-cafes-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-cafes-details.csv
-        target_file_name: berlin-points-of-interest-cafes-planning-area.csv
+        target_file_name: berlin-points-of-interest-cafes-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-car-sharing-stations-details.csv
@@ -142,19 +142,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-car-sharing-stations-details.csv
-        target_file_name: berlin-points-of-interest-car-sharing-stations-district.csv
+        target_file_name: berlin-points-of-interest-car-sharing-stations-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-car-sharing-stations-details.csv
-        target_file_name: berlin-points-of-interest-car-sharing-stations-forecast-area.csv
+        target_file_name: berlin-points-of-interest-car-sharing-stations-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-car-sharing-stations-details.csv
-        target_file_name: berlin-points-of-interest-car-sharing-stations-district-region.csv
+        target_file_name: berlin-points-of-interest-car-sharing-stations-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-car-sharing-stations-details.csv
-        target_file_name: berlin-points-of-interest-car-sharing-stations-planning-area.csv
+        target_file_name: berlin-points-of-interest-car-sharing-stations-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-childcare-details.csv
@@ -162,19 +162,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-childcare-details.csv
-        target_file_name: berlin-points-of-interest-childcare-district.csv
+        target_file_name: berlin-points-of-interest-childcare-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-childcare-details.csv
-        target_file_name: berlin-points-of-interest-childcare-forecast-area.csv
+        target_file_name: berlin-points-of-interest-childcare-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-childcare-details.csv
-        target_file_name: berlin-points-of-interest-childcare-district-region.csv
+        target_file_name: berlin-points-of-interest-childcare-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-childcare-details.csv
-        target_file_name: berlin-points-of-interest-childcare-planning-area.csv
+        target_file_name: berlin-points-of-interest-childcare-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-cinemas-details.csv
@@ -182,19 +182,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-cinemas-details.csv
-        target_file_name: berlin-points-of-interest-cinemas-district.csv
+        target_file_name: berlin-points-of-interest-cinemas-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-cinemas-details.csv
-        target_file_name: berlin-points-of-interest-cinemas-forecast-area.csv
+        target_file_name: berlin-points-of-interest-cinemas-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-cinemas-details.csv
-        target_file_name: berlin-points-of-interest-cinemas-district-region.csv
+        target_file_name: berlin-points-of-interest-cinemas-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-cinemas-details.csv
-        target_file_name: berlin-points-of-interest-cinemas-planning-area.csv
+        target_file_name: berlin-points-of-interest-cinemas-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-clinics-details.csv
@@ -202,19 +202,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-clinics-details.csv
-        target_file_name: berlin-points-of-interest-clinics-district.csv
+        target_file_name: berlin-points-of-interest-clinics-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-clinics-details.csv
-        target_file_name: berlin-points-of-interest-clinics-forecast-area.csv
+        target_file_name: berlin-points-of-interest-clinics-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-clinics-details.csv
-        target_file_name: berlin-points-of-interest-clinics-district-region.csv
+        target_file_name: berlin-points-of-interest-clinics-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-clinics-details.csv
-        target_file_name: berlin-points-of-interest-clinics-planning-area.csv
+        target_file_name: berlin-points-of-interest-clinics-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-community-centers-details.csv
@@ -222,19 +222,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-community-centers-details.csv
-        target_file_name: berlin-points-of-interest-community-centers-district.csv
+        target_file_name: berlin-points-of-interest-community-centers-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-community-centers-details.csv
-        target_file_name: berlin-points-of-interest-community-centers-forecast-area.csv
+        target_file_name: berlin-points-of-interest-community-centers-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-community-centers-details.csv
-        target_file_name: berlin-points-of-interest-community-centers-district-region.csv
+        target_file_name: berlin-points-of-interest-community-centers-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-community-centers-details.csv
-        target_file_name: berlin-points-of-interest-community-centers-planning-area.csv
+        target_file_name: berlin-points-of-interest-community-centers-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-convenience-stores-details.csv
@@ -242,19 +242,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-convenience-stores-details.csv
-        target_file_name: berlin-points-of-interest-convenience-stores-district.csv
+        target_file_name: berlin-points-of-interest-convenience-stores-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-convenience-stores-details.csv
-        target_file_name: berlin-points-of-interest-convenience-stores-forecast-area.csv
+        target_file_name: berlin-points-of-interest-convenience-stores-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-convenience-stores-details.csv
-        target_file_name: berlin-points-of-interest-convenience-stores-district-region.csv
+        target_file_name: berlin-points-of-interest-convenience-stores-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-convenience-stores-details.csv
-        target_file_name: berlin-points-of-interest-convenience-stores-planning-area.csv
+        target_file_name: berlin-points-of-interest-convenience-stores-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-coworking-spaces-details.csv
@@ -262,19 +262,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-coworking-spaces-details.csv
-        target_file_name: berlin-points-of-interest-coworking-spaces-district.csv
+        target_file_name: berlin-points-of-interest-coworking-spaces-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-coworking-spaces-details.csv
-        target_file_name: berlin-points-of-interest-coworking-spaces-forecast-area.csv
+        target_file_name: berlin-points-of-interest-coworking-spaces-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-coworking-spaces-details.csv
-        target_file_name: berlin-points-of-interest-coworking-spaces-district-region.csv
+        target_file_name: berlin-points-of-interest-coworking-spaces-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-coworking-spaces-details.csv
-        target_file_name: berlin-points-of-interest-coworking-spaces-planning-area.csv
+        target_file_name: berlin-points-of-interest-coworking-spaces-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-doctors-details.csv
@@ -282,19 +282,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-doctors-details.csv
-        target_file_name: berlin-points-of-interest-doctors-district.csv
+        target_file_name: berlin-points-of-interest-doctors-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-doctors-details.csv
-        target_file_name: berlin-points-of-interest-doctors-forecast-area.csv
+        target_file_name: berlin-points-of-interest-doctors-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-doctors-details.csv
-        target_file_name: berlin-points-of-interest-doctors-district-region.csv
+        target_file_name: berlin-points-of-interest-doctors-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-doctors-details.csv
-        target_file_name: berlin-points-of-interest-doctors-planning-area.csv
+        target_file_name: berlin-points-of-interest-doctors-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-fast-food-restaurants-details.csv
@@ -302,19 +302,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-fast-food-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-fast-food-restaurants-district.csv
+        target_file_name: berlin-points-of-interest-fast-food-restaurants-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-fast-food-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-fast-food-restaurants-forecast-area.csv
+        target_file_name: berlin-points-of-interest-fast-food-restaurants-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-fast-food-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-fast-food-restaurants-district-region.csv
+        target_file_name: berlin-points-of-interest-fast-food-restaurants-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-fast-food-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-fast-food-restaurants-planning-area.csv
+        target_file_name: berlin-points-of-interest-fast-food-restaurants-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-fire-stations-details.csv
@@ -322,19 +322,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-fire-stations-details.csv
-        target_file_name: berlin-points-of-interest-fire-stations-district.csv
+        target_file_name: berlin-points-of-interest-fire-stations-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-fire-stations-details.csv
-        target_file_name: berlin-points-of-interest-fire-stations-forecast-area.csv
+        target_file_name: berlin-points-of-interest-fire-stations-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-fire-stations-details.csv
-        target_file_name: berlin-points-of-interest-fire-stations-district-region.csv
+        target_file_name: berlin-points-of-interest-fire-stations-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-fire-stations-details.csv
-        target_file_name: berlin-points-of-interest-fire-stations-planning-area.csv
+        target_file_name: berlin-points-of-interest-fire-stations-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-fitness-centers-details.csv
@@ -342,19 +342,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-fitness-centers-details.csv
-        target_file_name: berlin-points-of-interest-fitness-centers-district.csv
+        target_file_name: berlin-points-of-interest-fitness-centers-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-fitness-centers-details.csv
-        target_file_name: berlin-points-of-interest-fitness-centers-forecast-area.csv
+        target_file_name: berlin-points-of-interest-fitness-centers-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-fitness-centers-details.csv
-        target_file_name: berlin-points-of-interest-fitness-centers-district-region.csv
+        target_file_name: berlin-points-of-interest-fitness-centers-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-fitness-centers-details.csv
-        target_file_name: berlin-points-of-interest-fitness-centers-planning-area.csv
+        target_file_name: berlin-points-of-interest-fitness-centers-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-food-courts-details.csv
@@ -362,19 +362,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-food-courts-details.csv
-        target_file_name: berlin-points-of-interest-food-courts-district.csv
+        target_file_name: berlin-points-of-interest-food-courts-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-food-courts-details.csv
-        target_file_name: berlin-points-of-interest-food-courts-forecast-area.csv
+        target_file_name: berlin-points-of-interest-food-courts-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-food-courts-details.csv
-        target_file_name: berlin-points-of-interest-food-courts-district-region.csv
+        target_file_name: berlin-points-of-interest-food-courts-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-food-courts-details.csv
-        target_file_name: berlin-points-of-interest-food-courts-planning-area.csv
+        target_file_name: berlin-points-of-interest-food-courts-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-grocery-stores-details.csv
@@ -382,19 +382,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-grocery-stores-details.csv
-        target_file_name: berlin-points-of-interest-grocery-stores-district.csv
+        target_file_name: berlin-points-of-interest-grocery-stores-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-grocery-stores-details.csv
-        target_file_name: berlin-points-of-interest-grocery-stores-forecast-area.csv
+        target_file_name: berlin-points-of-interest-grocery-stores-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-grocery-stores-details.csv
-        target_file_name: berlin-points-of-interest-grocery-stores-district-region.csv
+        target_file_name: berlin-points-of-interest-grocery-stores-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-grocery-stores-details.csv
-        target_file_name: berlin-points-of-interest-grocery-stores-planning-area.csv
+        target_file_name: berlin-points-of-interest-grocery-stores-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-hospitals-details.csv
@@ -402,19 +402,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-hospitals-details.csv
-        target_file_name: berlin-points-of-interest-hospitals-district.csv
+        target_file_name: berlin-points-of-interest-hospitals-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-hospitals-details.csv
-        target_file_name: berlin-points-of-interest-hospitals-forecast-area.csv
+        target_file_name: berlin-points-of-interest-hospitals-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-hospitals-details.csv
-        target_file_name: berlin-points-of-interest-hospitals-district-region.csv
+        target_file_name: berlin-points-of-interest-hospitals-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-hospitals-details.csv
-        target_file_name: berlin-points-of-interest-hospitals-planning-area.csv
+        target_file_name: berlin-points-of-interest-hospitals-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-ice-cream-parlours-details.csv
@@ -422,19 +422,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-ice-cream-parlours-details.csv
-        target_file_name: berlin-points-of-interest-ice-cream-parlours-district.csv
+        target_file_name: berlin-points-of-interest-ice-cream-parlours-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-ice-cream-parlours-details.csv
-        target_file_name: berlin-points-of-interest-ice-cream-parlours-forecast-area.csv
+        target_file_name: berlin-points-of-interest-ice-cream-parlours-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-ice-cream-parlours-details.csv
-        target_file_name: berlin-points-of-interest-ice-cream-parlours-district-region.csv
+        target_file_name: berlin-points-of-interest-ice-cream-parlours-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-ice-cream-parlours-details.csv
-        target_file_name: berlin-points-of-interest-ice-cream-parlours-planning-area.csv
+        target_file_name: berlin-points-of-interest-ice-cream-parlours-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-kindergartens-details.csv
@@ -442,19 +442,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-kindergartens-details.csv
-        target_file_name: berlin-points-of-interest-kindergartens-district.csv
+        target_file_name: berlin-points-of-interest-kindergartens-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-kindergartens-details.csv
-        target_file_name: berlin-points-of-interest-kindergartens-forecast-area.csv
+        target_file_name: berlin-points-of-interest-kindergartens-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-kindergartens-details.csv
-        target_file_name: berlin-points-of-interest-kindergartens-district-region.csv
+        target_file_name: berlin-points-of-interest-kindergartens-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-kindergartens-details.csv
-        target_file_name: berlin-points-of-interest-kindergartens-planning-area.csv
+        target_file_name: berlin-points-of-interest-kindergartens-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-libraries-details.csv
@@ -462,19 +462,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-libraries-details.csv
-        target_file_name: berlin-points-of-interest-libraries-district.csv
+        target_file_name: berlin-points-of-interest-libraries-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-libraries-details.csv
-        target_file_name: berlin-points-of-interest-libraries-forecast-area.csv
+        target_file_name: berlin-points-of-interest-libraries-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-libraries-details.csv
-        target_file_name: berlin-points-of-interest-libraries-district-region.csv
+        target_file_name: berlin-points-of-interest-libraries-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-libraries-details.csv
-        target_file_name: berlin-points-of-interest-libraries-planning-area.csv
+        target_file_name: berlin-points-of-interest-libraries-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-marketplaces-details.csv
@@ -482,19 +482,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-marketplaces-details.csv
-        target_file_name: berlin-points-of-interest-marketplaces-district.csv
+        target_file_name: berlin-points-of-interest-marketplaces-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-marketplaces-details.csv
-        target_file_name: berlin-points-of-interest-marketplaces-forecast-area.csv
+        target_file_name: berlin-points-of-interest-marketplaces-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-marketplaces-details.csv
-        target_file_name: berlin-points-of-interest-marketplaces-district-region.csv
+        target_file_name: berlin-points-of-interest-marketplaces-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-marketplaces-details.csv
-        target_file_name: berlin-points-of-interest-marketplaces-planning-area.csv
+        target_file_name: berlin-points-of-interest-marketplaces-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-museums-details.csv
@@ -502,19 +502,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-museums-details.csv
-        target_file_name: berlin-points-of-interest-museums-district.csv
+        target_file_name: berlin-points-of-interest-museums-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-museums-details.csv
-        target_file_name: berlin-points-of-interest-museums-forecast-area.csv
+        target_file_name: berlin-points-of-interest-museums-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-museums-details.csv
-        target_file_name: berlin-points-of-interest-museums-district-region.csv
+        target_file_name: berlin-points-of-interest-museums-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-museums-details.csv
-        target_file_name: berlin-points-of-interest-museums-planning-area.csv
+        target_file_name: berlin-points-of-interest-museums-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-nightclubs-details.csv
@@ -522,19 +522,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-nightclubs-details.csv
-        target_file_name: berlin-points-of-interest-nightclubs-district.csv
+        target_file_name: berlin-points-of-interest-nightclubs-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-nightclubs-details.csv
-        target_file_name: berlin-points-of-interest-nightclubs-forecast-area.csv
+        target_file_name: berlin-points-of-interest-nightclubs-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-nightclubs-details.csv
-        target_file_name: berlin-points-of-interest-nightclubs-district-region.csv
+        target_file_name: berlin-points-of-interest-nightclubs-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-nightclubs-details.csv
-        target_file_name: berlin-points-of-interest-nightclubs-planning-area.csv
+        target_file_name: berlin-points-of-interest-nightclubs-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-offices-details.csv
@@ -542,19 +542,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-offices-details.csv
-        target_file_name: berlin-points-of-interest-offices-district.csv
+        target_file_name: berlin-points-of-interest-offices-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-offices-details.csv
-        target_file_name: berlin-points-of-interest-offices-forecast-area.csv
+        target_file_name: berlin-points-of-interest-offices-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-offices-details.csv
-        target_file_name: berlin-points-of-interest-offices-district-region.csv
+        target_file_name: berlin-points-of-interest-offices-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-offices-details.csv
-        target_file_name: berlin-points-of-interest-offices-planning-area.csv
+        target_file_name: berlin-points-of-interest-offices-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-parks-details.csv
@@ -562,19 +562,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-parks-details.csv
-        target_file_name: berlin-points-of-interest-parks-district.csv
+        target_file_name: berlin-points-of-interest-parks-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-parks-details.csv
-        target_file_name: berlin-points-of-interest-parks-forecast-area.csv
+        target_file_name: berlin-points-of-interest-parks-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-parks-details.csv
-        target_file_name: berlin-points-of-interest-parks-district-region.csv
+        target_file_name: berlin-points-of-interest-parks-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-parks-details.csv
-        target_file_name: berlin-points-of-interest-parks-planning-area.csv
+        target_file_name: berlin-points-of-interest-parks-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-pharmacies-details.csv
@@ -582,19 +582,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-pharmacies-details.csv
-        target_file_name: berlin-points-of-interest-pharmacies-district.csv
+        target_file_name: berlin-points-of-interest-pharmacies-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-pharmacies-details.csv
-        target_file_name: berlin-points-of-interest-pharmacies-forecast-area.csv
+        target_file_name: berlin-points-of-interest-pharmacies-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-pharmacies-details.csv
-        target_file_name: berlin-points-of-interest-pharmacies-district-region.csv
+        target_file_name: berlin-points-of-interest-pharmacies-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-pharmacies-details.csv
-        target_file_name: berlin-points-of-interest-pharmacies-planning-area.csv
+        target_file_name: berlin-points-of-interest-pharmacies-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-places-of-worship-details.csv
@@ -602,19 +602,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-places-of-worship-details.csv
-        target_file_name: berlin-points-of-interest-places-of-worship-district.csv
+        target_file_name: berlin-points-of-interest-places-of-worship-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-places-of-worship-details.csv
-        target_file_name: berlin-points-of-interest-places-of-worship-forecast-area.csv
+        target_file_name: berlin-points-of-interest-places-of-worship-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-places-of-worship-details.csv
-        target_file_name: berlin-points-of-interest-places-of-worship-district-region.csv
+        target_file_name: berlin-points-of-interest-places-of-worship-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-places-of-worship-details.csv
-        target_file_name: berlin-points-of-interest-places-of-worship-planning-area.csv
+        target_file_name: berlin-points-of-interest-places-of-worship-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-playgrounds-details.csv
@@ -622,19 +622,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-playgrounds-details.csv
-        target_file_name: berlin-points-of-interest-playgrounds-district.csv
+        target_file_name: berlin-points-of-interest-playgrounds-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-playgrounds-details.csv
-        target_file_name: berlin-points-of-interest-playgrounds-forecast-area.csv
+        target_file_name: berlin-points-of-interest-playgrounds-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-playgrounds-details.csv
-        target_file_name: berlin-points-of-interest-playgrounds-district-region.csv
+        target_file_name: berlin-points-of-interest-playgrounds-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-playgrounds-details.csv
-        target_file_name: berlin-points-of-interest-playgrounds-planning-area.csv
+        target_file_name: berlin-points-of-interest-playgrounds-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-police-stations-details.csv
@@ -642,19 +642,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-police-stations-details.csv
-        target_file_name: berlin-points-of-interest-police-stations-district.csv
+        target_file_name: berlin-points-of-interest-police-stations-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-police-stations-details.csv
-        target_file_name: berlin-points-of-interest-police-stations-forecast-area.csv
+        target_file_name: berlin-points-of-interest-police-stations-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-police-stations-details.csv
-        target_file_name: berlin-points-of-interest-police-stations-district-region.csv
+        target_file_name: berlin-points-of-interest-police-stations-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-police-stations-details.csv
-        target_file_name: berlin-points-of-interest-police-stations-planning-area.csv
+        target_file_name: berlin-points-of-interest-police-stations-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-post-offices-details.csv
@@ -662,19 +662,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-post-offices-details.csv
-        target_file_name: berlin-points-of-interest-post-offices-district.csv
+        target_file_name: berlin-points-of-interest-post-offices-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-post-offices-details.csv
-        target_file_name: berlin-points-of-interest-post-offices-forecast-area.csv
+        target_file_name: berlin-points-of-interest-post-offices-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-post-offices-details.csv
-        target_file_name: berlin-points-of-interest-post-offices-district-region.csv
+        target_file_name: berlin-points-of-interest-post-offices-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-post-offices-details.csv
-        target_file_name: berlin-points-of-interest-post-offices-planning-area.csv
+        target_file_name: berlin-points-of-interest-post-offices-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-pubs-details.csv
@@ -682,19 +682,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-pubs-details.csv
-        target_file_name: berlin-points-of-interest-pubs-district.csv
+        target_file_name: berlin-points-of-interest-pubs-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-pubs-details.csv
-        target_file_name: berlin-points-of-interest-pubs-forecast-area.csv
+        target_file_name: berlin-points-of-interest-pubs-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-pubs-details.csv
-        target_file_name: berlin-points-of-interest-pubs-district-region.csv
+        target_file_name: berlin-points-of-interest-pubs-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-pubs-details.csv
-        target_file_name: berlin-points-of-interest-pubs-planning-area.csv
+        target_file_name: berlin-points-of-interest-pubs-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-restaurants-details.csv
@@ -702,19 +702,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-restaurants-district.csv
+        target_file_name: berlin-points-of-interest-restaurants-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-restaurants-forecast-area.csv
+        target_file_name: berlin-points-of-interest-restaurants-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-restaurants-district-region.csv
+        target_file_name: berlin-points-of-interest-restaurants-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-restaurants-details.csv
-        target_file_name: berlin-points-of-interest-restaurants-planning-area.csv
+        target_file_name: berlin-points-of-interest-restaurants-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-sbahn-stops-details.csv
@@ -722,19 +722,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-sbahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-sbahn-stops-district.csv
+        target_file_name: berlin-points-of-interest-sbahn-stops-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-sbahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-sbahn-stops-forecast-area.csv
+        target_file_name: berlin-points-of-interest-sbahn-stops-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-sbahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-sbahn-stops-district-region.csv
+        target_file_name: berlin-points-of-interest-sbahn-stops-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-sbahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-sbahn-stops-planning-area.csv
+        target_file_name: berlin-points-of-interest-sbahn-stops-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-schools-details.csv
@@ -742,19 +742,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-schools-details.csv
-        target_file_name: berlin-points-of-interest-schools-district.csv
+        target_file_name: berlin-points-of-interest-schools-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-schools-details.csv
-        target_file_name: berlin-points-of-interest-schools-forecast-area.csv
+        target_file_name: berlin-points-of-interest-schools-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-schools-details.csv
-        target_file_name: berlin-points-of-interest-schools-district-region.csv
+        target_file_name: berlin-points-of-interest-schools-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-schools-details.csv
-        target_file_name: berlin-points-of-interest-schools-planning-area.csv
+        target_file_name: berlin-points-of-interest-schools-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-sport-centers-details.csv
@@ -762,19 +762,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-sport-centers-details.csv
-        target_file_name: berlin-points-of-interest-sport-centers-district.csv
+        target_file_name: berlin-points-of-interest-sport-centers-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-sport-centers-details.csv
-        target_file_name: berlin-points-of-interest-sport-centers-forecast-area.csv
+        target_file_name: berlin-points-of-interest-sport-centers-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-sport-centers-details.csv
-        target_file_name: berlin-points-of-interest-sport-centers-district-region.csv
+        target_file_name: berlin-points-of-interest-sport-centers-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-sport-centers-details.csv
-        target_file_name: berlin-points-of-interest-sport-centers-planning-area.csv
+        target_file_name: berlin-points-of-interest-sport-centers-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-supermarkets-details.csv
@@ -782,19 +782,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-supermarkets-details.csv
-        target_file_name: berlin-points-of-interest-supermarkets-district.csv
+        target_file_name: berlin-points-of-interest-supermarkets-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-supermarkets-details.csv
-        target_file_name: berlin-points-of-interest-supermarkets-forecast-area.csv
+        target_file_name: berlin-points-of-interest-supermarkets-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-supermarkets-details.csv
-        target_file_name: berlin-points-of-interest-supermarkets-district-region.csv
+        target_file_name: berlin-points-of-interest-supermarkets-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-supermarkets-details.csv
-        target_file_name: berlin-points-of-interest-supermarkets-planning-area.csv
+        target_file_name: berlin-points-of-interest-supermarkets-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-theaters-details.csv
@@ -802,19 +802,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-theaters-details.csv
-        target_file_name: berlin-points-of-interest-theaters-district.csv
+        target_file_name: berlin-points-of-interest-theaters-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-theaters-details.csv
-        target_file_name: berlin-points-of-interest-theaters-forecast-area.csv
+        target_file_name: berlin-points-of-interest-theaters-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-theaters-details.csv
-        target_file_name: berlin-points-of-interest-theaters-district-region.csv
+        target_file_name: berlin-points-of-interest-theaters-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-theaters-details.csv
-        target_file_name: berlin-points-of-interest-theaters-planning-area.csv
+        target_file_name: berlin-points-of-interest-theaters-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-tram-stops-details.csv
@@ -822,19 +822,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-tram-stops-details.csv
-        target_file_name: berlin-points-of-interest-tram-stops-district.csv
+        target_file_name: berlin-points-of-interest-tram-stops-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-tram-stops-details.csv
-        target_file_name: berlin-points-of-interest-tram-stops-forecast-area.csv
+        target_file_name: berlin-points-of-interest-tram-stops-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-tram-stops-details.csv
-        target_file_name: berlin-points-of-interest-tram-stops-district-region.csv
+        target_file_name: berlin-points-of-interest-tram-stops-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-tram-stops-details.csv
-        target_file_name: berlin-points-of-interest-tram-stops-planning-area.csv
+        target_file_name: berlin-points-of-interest-tram-stops-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-ubahn-stops-details.csv
@@ -842,19 +842,19 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-ubahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-ubahn-stops-district.csv
+        target_file_name: berlin-points-of-interest-ubahn-stops-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-ubahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-ubahn-stops-forecast-area.csv
+        target_file_name: berlin-points-of-interest-ubahn-stops-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-ubahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-ubahn-stops-district-region.csv
+        target_file_name: berlin-points-of-interest-ubahn-stops-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-ubahn-stops-details.csv
-        target_file_name: berlin-points-of-interest-ubahn-stops-planning-area.csv
+        target_file_name: berlin-points-of-interest-ubahn-stops-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
       - source_file_name: berlin-points-of-interest-universities-details.csv
@@ -862,18 +862,18 @@ input_ports:
         aggregate_by: "total"
         names: *city
       - source_file_name: berlin-points-of-interest-universities-details.csv
-        target_file_name: berlin-points-of-interest-universities-district.csv
+        target_file_name: berlin-points-of-interest-universities-districts.csv
         aggregate_by: district_id
         names: *district
       - source_file_name: berlin-points-of-interest-universities-details.csv
-        target_file_name: berlin-points-of-interest-universities-forecast-area.csv
+        target_file_name: berlin-points-of-interest-universities-forecast-areas.csv
         aggregate_by: forecast_area_id
         names: *forecast-area
       - source_file_name: berlin-points-of-interest-universities-details.csv
-        target_file_name: berlin-points-of-interest-universities-district-region.csv
+        target_file_name: berlin-points-of-interest-universities-district-regions.csv
         aggregate_by: district_region_id
         names: *district-region
       - source_file_name: berlin-points-of-interest-universities-details.csv
-        target_file_name: berlin-points-of-interest-universities-planning-area.csv
+        target_file_name: berlin-points-of-interest-universities-planning-areas.csv
         aggregate_by: planning_area_id
         names: *planning-area
