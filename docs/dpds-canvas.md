@@ -40,6 +40,8 @@
 ### Output Ports
 #### berlin-points-of-interest-2025-11-csv
 * fully qualified name: berlin-points-of-interest-2025-11-csv
+#### berlin-points-of-interest-2025-11-json
+* fully qualified name: berlin-points-of-interest-2025-11-json
 #### berlin-points-of-interest-2025-11-parquet
 * fully qualified name: berlin-points-of-interest-2025-11-parquet
 

@@ -370,6 +370,18 @@ output_ports:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-csv/berlin-points-of-interest-universities-districts.csv
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-csv/berlin-points-of-interest-universities-forecast-areas.csv
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-csv/berlin-points-of-interest-universities-planning-areas.csv
+  - id: berlin-points-of-interest-2025-11-json
+    metadata:
+      name: Berlin Points Of Interest 2025 11 Json
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-json
+      license:
+      updated: 2025-11-03
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-json/berlin-points-of-interest-forests-details.json
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-json/berlin-points-of-interest-parks-details.json
   - id: berlin-points-of-interest-2025-11-parquet
     metadata:
       name: Berlin Points Of Interest 2025 11 Parquet

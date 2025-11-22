@@ -31,6 +31,19 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
+      id: berlin-points-of-interest-2025-11-json
+      fullyQualifiedName: berlin-points-of-interest-2025-11-json
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
       id: berlin-points-of-interest-2025-11-parquet
       fullyQualifiedName: berlin-points-of-interest-2025-11-parquet
       entityType:
