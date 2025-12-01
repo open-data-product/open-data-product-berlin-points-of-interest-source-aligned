@@ -6,7 +6,7 @@
 ## Info
 
 * ID: berlin-points-of-interest-source-aligned
-* fully qualified name: urn:dpds:openlifeworlds:dataproducts:berlin-points-of-interest-source-aligned:1.0
+* fully qualified name: urn:dpds:opendataproduct:dataproducts:berlin-points-of-interest-source-aligned:1.0
 * name: Berlin Points of Interest (source-aligned)
 * version: 1.0
 * display name: Berlin Points of Interest (source-aligned)
@@ -14,8 +14,8 @@
 * domain: domain
 ### Owner
 
-* id: Open Lifeworlds
-* name: Open Lifeworlds
+* id: Open Data Product
+* name: Open Data Product
 
 ## Interface Components
 
@@ -30,6 +30,12 @@
 * fully qualified name: berlin-points-of-interest-2025-11-json
 #### berlin-points-of-interest-2025-11-parquet
 * fully qualified name: berlin-points-of-interest-2025-11-parquet
+#### berlin-points-of-interest-2025-12-csv
+* fully qualified name: berlin-points-of-interest-2025-12-csv
+#### berlin-points-of-interest-2025-12-json
+* fully qualified name: berlin-points-of-interest-2025-12-json
+#### berlin-points-of-interest-2025-12-parquet
+* fully qualified name: berlin-points-of-interest-2025-12-parquet
 
 
 ---

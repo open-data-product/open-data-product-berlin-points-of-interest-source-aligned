@@ -1,13 +1,13 @@
 ---
 dataProductDescriptor: data-product-descriptor
 info:
-  fullyQualifiedName: urn:dpds:openlifeworlds:dataproducts:berlin-points-of-interest-source-aligned:1.0
+  fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:berlin-points-of-interest-source-aligned:1.0
   name: Berlin Points of Interest (source-aligned)
   version: '1.0'
   domain: domain
   owner:
-    id: Open Lifeworlds
-    name: Open Lifeworlds
+    id: Open Data Product
+    name: Open Data Product
   id: berlin-points-of-interest-source-aligned
   entityType:
   displayName: Berlin Points of Interest (source-aligned)
@@ -46,6 +46,45 @@ interfaceComponents:
       obligations:
       id: berlin-points-of-interest-2025-11-parquet
       fullyQualifiedName: berlin-points-of-interest-2025-11-parquet
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2025-12-csv
+      fullyQualifiedName: berlin-points-of-interest-2025-12-csv
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2025-12-json
+      fullyQualifiedName: berlin-points-of-interest-2025-12-json
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2025-12-parquet
+      fullyQualifiedName: berlin-points-of-interest-2025-12-parquet
       entityType:
       name: ''
       version:
