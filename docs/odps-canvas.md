@@ -6,15 +6,12 @@
 
 ### Basic Information
 
-* categories: timeseries
 * description: This data product provides Berlin points-of-interest data
-* logo URL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-population-source-aligned/refs/heads/main/logo-with-text.png
+* logo URL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/refs/heads/main/logo-with-text.png
 * product ID: berlin-points-of-interest-source-aligned
-* product series: Berlin Timeseries Series
 * status: active
 * tags: berlin, points-of-interest
 * type: source-aligned
-* value proposition: Providing Berlin points of interest data
 * version: 1.0
 * visibility: public
 

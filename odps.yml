@@ -10,17 +10,16 @@ product:
     visibility: public
     OutputFileFormats: []
     brandSlogan:
-    categories:
-      - timeseries
+    categories: []
     description: This data product provides Berlin points-of-interest data
-    logoURL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-population-source-aligned/refs/heads/main/logo-with-text.png
-    productSeries: Berlin Timeseries Series
+    logoURL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/refs/heads/main/logo-with-text.png
+    productSeries:
     standards: []
     tags:
       - berlin
       - points-of-interest
     useCases: []
-    valueProposition: Providing Berlin points of interest data
+    valueProposition:
     version: '1.0'
   sla: []
   dataAccess:

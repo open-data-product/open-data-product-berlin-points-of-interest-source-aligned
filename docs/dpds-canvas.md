@@ -6,7 +6,7 @@
 ## Info
 
 * ID: berlin-points-of-interest-source-aligned
-* fully qualified name: urn:dpds:opendataproduct:dataproducts:berlin-points-of-interest-source-aligned:1.0
+* fully qualified name: urn:dpds:openlifeworlds:dataproducts:berlin-points-of-interest-source-aligned:1.0
 * name: Berlin Points of Interest (source-aligned)
 * version: 1.0
 * display name: Berlin Points of Interest (source-aligned)
@@ -14,28 +14,14 @@
 * domain: domain
 ### Owner
 
-* id: Open Data product
-* name: Open Data product
+* id: Open Lifeworlds
+* name: Open Lifeworlds
 
 ## Interface Components
 
 ### Input Ports
-#### berlin-lor-city
-* fully qualified name: berlin-lor-city
-#### berlin-lor-district-regions-from-2021
-* fully qualified name: berlin-lor-district-regions-from-2021
-#### berlin-lor-district-regions-until-2020
-* fully qualified name: berlin-lor-district-regions-until-2020
-#### berlin-lor-districts
-* fully qualified name: berlin-lor-districts
-#### berlin-lor-forecast-areas-from-2021
-* fully qualified name: berlin-lor-forecast-areas-from-2021
-#### berlin-lor-forecast-areas-until-2020
-* fully qualified name: berlin-lor-forecast-areas-until-2020
-#### berlin-lor-planning-areas-from-2021
-* fully qualified name: berlin-lor-planning-areas-from-2021
-#### berlin-lor-planning-areas-until-2020
-* fully qualified name: berlin-lor-planning-areas-until-2020
+#### berlin-lor-geodata
+* fully qualified name: berlin-lor-geodata
 
 ### Output Ports
 #### berlin-points-of-interest-2025-11-csv
