@@ -48,6 +48,12 @@
 * fully qualified name: berlin-points-of-interest-2026-02-json
 #### berlin-points-of-interest-2026-02-parquet
 * fully qualified name: berlin-points-of-interest-2026-02-parquet
+#### berlin-points-of-interest-2026-03-csv
+* fully qualified name: berlin-points-of-interest-2026-03-csv
+#### berlin-points-of-interest-2026-03-json
+* fully qualified name: berlin-points-of-interest-2026-03-json
+#### berlin-points-of-interest-2026-03-parquet
+* fully qualified name: berlin-points-of-interest-2026-03-parquet
 
 
 ---

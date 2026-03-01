@@ -1,0 +1,4 @@
+id,name,street,zip_code,lat,lon,geojson_feature_id
+10573646542,Checkpoint BLN,Hermannstraße 256-258,12049,52.4858353,13.42456,08100206
+13108440442,Notaufnahme Park-Klinik Weißensee,,,52.5550113,13.4505788,03500933
+13162221796,"Gemeinschaftspraxis Michael Balschin, Vadim Rubinstein, Irina Rabinovich",Reinickendorfer Straße 45,13347,52.5497342,13.3687468,01401044
