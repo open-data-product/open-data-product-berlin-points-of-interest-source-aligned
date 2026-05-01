@@ -5,7 +5,7 @@
 
 * owner: Open Data Product
 * description: This data product provides Berlin points-of-interest data
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 ## Input Ports
 
@@ -23,7 +23,7 @@
 name: Berlin Points Of Interest 2025 11 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-csv
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -291,7 +291,7 @@ name: Berlin Points Of Interest 2025 11 Csv
 name: Berlin Points Of Interest 2025 11 Json
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-json
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -303,7 +303,7 @@ name: Berlin Points Of Interest 2025 11 Json
 name: Berlin Points Of Interest 2025 11 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-parquet
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -571,7 +571,7 @@ name: Berlin Points Of Interest 2025 11 Parquet
 name: Berlin Points Of Interest 2025 12 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-12-csv
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -827,7 +827,7 @@ name: Berlin Points Of Interest 2025 12 Csv
 name: Berlin Points Of Interest 2025 12 Json
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-12-json
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -839,7 +839,7 @@ name: Berlin Points Of Interest 2025 12 Json
 name: Berlin Points Of Interest 2025 12 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-12-parquet
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1095,7 +1095,7 @@ name: Berlin Points Of Interest 2025 12 Parquet
 name: Berlin Points Of Interest 2026 01 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-01-csv
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1255,7 +1255,7 @@ name: Berlin Points Of Interest 2026 01 Csv
 name: Berlin Points Of Interest 2026 01 Json
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-01-json
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1267,7 +1267,7 @@ name: Berlin Points Of Interest 2026 01 Json
 name: Berlin Points Of Interest 2026 01 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-01-parquet
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1427,7 +1427,7 @@ name: Berlin Points Of Interest 2026 01 Parquet
 name: Berlin Points Of Interest 2026 02 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-02-csv
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1695,7 +1695,7 @@ name: Berlin Points Of Interest 2026 02 Csv
 name: Berlin Points Of Interest 2026 02 Json
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-02-json
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1707,7 +1707,7 @@ name: Berlin Points Of Interest 2026 02 Json
 name: Berlin Points Of Interest 2026 02 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-02-parquet
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -1975,7 +1975,7 @@ name: Berlin Points Of Interest 2026 02 Parquet
 name: Berlin Points Of Interest 2026 03 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-03-csv
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -2219,7 +2219,7 @@ name: Berlin Points Of Interest 2026 03 Csv
 name: Berlin Points Of Interest 2026 03 Json
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-03-json
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -2231,7 +2231,7 @@ name: Berlin Points Of Interest 2026 03 Json
 name: Berlin Points Of Interest 2026 03 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-03-parquet
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -2475,7 +2475,7 @@ name: Berlin Points Of Interest 2026 03 Parquet
 name: Berlin Points Of Interest 2026 04 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-04-csv
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -2593,7 +2593,7 @@ name: Berlin Points Of Interest 2026 04 Csv
 name: Berlin Points Of Interest 2026 04 Json
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-04-json
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -2605,7 +2605,7 @@ name: Berlin Points Of Interest 2026 04 Json
 name: Berlin Points Of Interest 2026 04 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-04-parquet
-* updated: 2026-04-01
+* updated: 2026-05-01
 
 **Files**
 
@@ -2717,6 +2717,18 @@ name: Berlin Points Of Interest 2026 04 Parquet
 * [berlin-points-of-interest-universities-districts.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-universities-districts.parquet)
 * [berlin-points-of-interest-universities-forecast-areas.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-universities-forecast-areas.parquet)
 * [berlin-points-of-interest-universities-planning-areas.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-universities-planning-areas.parquet)
+
+
+### berlin-points-of-interest-2026-05-json
+name: Berlin Points Of Interest 2026 05 Json
+* owner: Open Data Product
+* url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-05-json
+* updated: 2026-05-01
+
+**Files**
+
+* [berlin-points-of-interest-forests-details.json](https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-05-json/berlin-points-of-interest-forests-details.json)
+* [berlin-points-of-interest-parks-details.json](https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-05-json/berlin-points-of-interest-parks-details.json)
 
 
 ## Classification

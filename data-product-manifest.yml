@@ -6,7 +6,7 @@ metadata:
   description: This data product provides Berlin points-of-interest data
   url:
   license:
-  updated: 2026-04-01
+  updated: 2026-05-01
   schema:
 input_ports:
   - id: berlin-lor-geodata
@@ -23,7 +23,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-csv
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-csv/berlin-points-of-interest-art-galleries-city.csv
@@ -291,7 +291,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-json
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-json/berlin-points-of-interest-forests-details.json
@@ -303,7 +303,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-11-parquet
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-11-parquet/berlin-points-of-interest-art-galleries-city.parquet
@@ -571,7 +571,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-12-csv
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-12-csv/berlin-points-of-interest-art-galleries-city.csv
@@ -827,7 +827,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-12-json
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-12-json/berlin-points-of-interest-forests-details.json
@@ -839,7 +839,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2025-12-parquet
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2025-12-parquet/berlin-points-of-interest-art-galleries-city.parquet
@@ -1095,7 +1095,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-01-csv
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-01-csv/berlin-points-of-interest-art-galleries-city.csv
@@ -1255,7 +1255,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-01-json
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-01-json/berlin-points-of-interest-forests-details.json
@@ -1267,7 +1267,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-01-parquet
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-01-parquet/berlin-points-of-interest-art-galleries-city.parquet
@@ -1427,7 +1427,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-02-csv
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-02-csv/berlin-points-of-interest-art-galleries-city.csv
@@ -1695,7 +1695,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-02-json
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-02-json/berlin-points-of-interest-forests-details.json
@@ -1707,7 +1707,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-02-parquet
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-02-parquet/berlin-points-of-interest-art-galleries-city.parquet
@@ -1975,7 +1975,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-03-csv
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-03-csv/berlin-points-of-interest-bars-city.csv
@@ -2219,7 +2219,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-03-json
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-03-json/berlin-points-of-interest-forests-details.json
@@ -2231,7 +2231,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-03-parquet
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-03-parquet/berlin-points-of-interest-bars-city.parquet
@@ -2475,7 +2475,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-04-csv
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-csv/berlin-points-of-interest-art-galleries-city.csv
@@ -2593,7 +2593,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-04-json
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-json/berlin-points-of-interest-forests-details.json
@@ -2605,7 +2605,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-04-parquet
       license:
-      updated: 2026-04-01
+      updated: 2026-05-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-art-galleries-city.parquet
@@ -2716,6 +2716,18 @@ output_ports:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-universities-districts.parquet
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-universities-forecast-areas.parquet
       - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-04-parquet/berlin-points-of-interest-universities-planning-areas.parquet
+  - id: berlin-points-of-interest-2026-05-json
+    metadata:
+      name: Berlin Points Of Interest 2026 05 Json
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/tree/main/data/03-gold/berlin-points-of-interest-2026-05-json
+      license:
+      updated: 2026-05-01
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-05-json/berlin-points-of-interest-forests-details.json
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-points-of-interest-source-aligned/main/data/03-gold/berlin-points-of-interest-2026-05-json/berlin-points-of-interest-parks-details.json
 observability:
 consumers: []
 use_cases: []

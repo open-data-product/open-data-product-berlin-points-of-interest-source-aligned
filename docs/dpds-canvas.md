@@ -60,6 +60,8 @@
 * fully qualified name: berlin-points-of-interest-2026-04-json
 #### berlin-points-of-interest-2026-04-parquet
 * fully qualified name: berlin-points-of-interest-2026-04-parquet
+#### berlin-points-of-interest-2026-05-json
+* fully qualified name: berlin-points-of-interest-2026-05-json
 
 
 ---
