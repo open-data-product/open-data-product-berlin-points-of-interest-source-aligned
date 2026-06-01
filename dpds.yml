@@ -262,6 +262,19 @@ interfaceComponents:
       componentGroup:
       tags:
       externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: berlin-points-of-interest-2026-06-json
+      fullyQualifiedName: berlin-points-of-interest-2026-06-json
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
   inputPorts:
     - promises:
       expectations:
