@@ -72,6 +72,8 @@
 * fully qualified name: berlin-points-of-interest-2026-09-json
 #### berlin-points-of-interest-2026-10-json
 * fully qualified name: berlin-points-of-interest-2026-10-json
+#### berlin-points-of-interest-2026-11-json
+* fully qualified name: berlin-points-of-interest-2026-11-json
 
 
 ---
